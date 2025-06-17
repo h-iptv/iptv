@@ -166,24 +166,24 @@ def main():
     # The channel's 'group-title' in the output will be set to the first matching category name.
     # Matching is case-insensitive and uses word boundaries for precision.
     category_map = {
-        "My Entertainment": [
+        "Entertainment": [
             "Star Plus", "Sony TV", "Colors TV", "& TV", "Star Utsav",
             "Zee TV", "Sony SAB", "Star Bharat", "Zee Anmol", "Sony Pal"
         ],
-        "My Movies": [
+        "Movies": [
             "Zee Cinema", "Star Gold", "Sony Max", "Colors Cineplex", "UTV Movies", "& pictures", "B4U Movies",
             "Zee Bollywood", "Zee Action", "Zee Classic", "Sony Max 2", "Sony Wah", "Zee Anmol Cinema"
         ],
-        "My Kids Shows": [
+        "Kids Cartoon": [
             "Cartoon Network", "Pogo", "Hungama TV", "Disney Channel", "Nick", "Nick HD+", "Discovery Kids"
         ],
-        "My Knowledge": [
+        "Knowledge": [
             "Discovery Channel", "National Geographic", "History TV18", "Animal Planet"
         ],
-        "My Sports": [
+        "Sports": [
             "Star Sports", "Sony Ten", "Sports18"
         ],
-        "My News": [
+        "News": [
             "Aaj Tak", "BBC News", "NDTV", "Zee News", "ABP News", "Republic TV"
         ]
         # Add more custom categories and their defining keywords here.
