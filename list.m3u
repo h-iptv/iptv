@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Himanshu8221/jyoti-iptv/refs/heads/main/filtered_epg.xml"
+#EXTM3U url-tvg="http://watchindia.net:8880/xmltv.php?username=79527&password=25638"
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="My Entertainment",Colors TV HD (1)
 http://watchindia.net:8880/live/79527/25638/801.ts
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="My Entertainment",Colors TV HD (2)
