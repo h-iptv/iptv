@@ -2,7 +2,7 @@
 
 # --- Entertainment ---
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (1)
-http://watchindia.net:8880/live/79527/25638/801.ts
+https://drive.google.com/file/d/1r19H8l1-6DqI7rWo2hDJycVhi9Nc3MHE/view?usp=drivesdk
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (2)
 http://watchindia.net:8880/live/79527/25638/2264.ts
 #EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors TV HD UK" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD UK
