@@ -199,7 +199,7 @@ def main():
         ],
         "News": [
             "India News", "World News", "BBC News", "NDTV", "Aaj Tak", "Zee News",
-            "Republic TV", "ABP News",
+            "Republic TV", "ABP News"
         # Add more categories as needed
     }
 
