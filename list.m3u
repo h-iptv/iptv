@@ -1,0 +1,785 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="Entertainment",& TV HD
+http://watchindia.net:8880/live/79527/25638/782.ts
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD (1)
+http://watchindia.net:8880/live/79527/25638/801.ts
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD (2)
+http://watchindia.net:8880/live/79527/25638/2264.ts
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors TV HD UK" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD UK
+http://watchindia.net:8880/live/79527/25638/2187.ts
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="Entertainment",Sony Pal
+http://watchindia.net:8880/live/79527/25638/812.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD
+http://watchindia.net:8880/live/79527/25638/2323.ts
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="Sony Sab UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab UK
+http://watchindia.net:8880/live/79527/25638/2189.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV HD (1)
+http://watchindia.net:8880/live/79527/25638/1969.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV HD (2)
+http://watchindia.net:8880/live/79527/25638/2141.ts
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="Sony TV UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV UK
+http://watchindia.net:8880/live/79527/25638/2117.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD
+http://watchindia.net:8880/live/79527/25638/780.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
+http://watchindia.net:8880/live/79527/25638/1924.ts
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Utsav.png" group-title="Entertainment",Star Utsav
+http://watchindia.net:8880/live/79527/25638/2493.ts
+#EXTINF:-1 tvg-id="zanmol.in" tvg-name="Zee Anmol" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol.png" group-title="Entertainment",Zee Anmol
+http://watchindia.net:8880/live/79527/25638/813.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Entertainment",Zee Anmol Cinema
+http://watchindia.net:8880/live/79527/25638/820.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD
+http://watchindia.net:8880/live/79527/25638/1970.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="http://watchindia.net/images/channels/usa/Cartoon_Network.png" group-title="Kids",Cartoon Network
+http://watchindia.net:8880/live/79527/25638/2052.ts
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network HD+" tvg-logo="http://watchindia.net/images/channels/hindi/CN_HD+.png" group-title="Kids",Cartoon Network HD+
+http://watchindia.net:8880/live/79527/25638/2718.ts
+#EXTINF:-1 tvg-id="chuttitv.in" tvg-name="Chutti TV" tvg-logo="https://watchindia.net/images/channels/tamil/Chutti_TV.png" group-title="Kids",Chutti TV
+http://watchindia.net:8880/live/79527/25638/882.ts
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="Kids",Disney Channel
+http://watchindia.net:8880/live/79527/25638/2046.ts
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="Nick HD Plus" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_HD_Plus.png" group-title="Kids",Nick HD Plus
+http://watchindia.net:8880/live/79527/25638/2237.ts
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_Hindi.png" group-title="Kids",Nick Hindi
+http://watchindia.net:8880/live/79527/25638/2182.ts
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Jr." tvg-logo="http://watchindia.net/images/channels/usa/Nick_Jr.png" group-title="Kids",Nick Jr.
+http://watchindia.net:8880/live/79527/25638/2059.ts
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Malayalam" tvg-logo="https://watchindia.net/images/channels/malayalam/Nick.png" group-title="Kids",Nick Malayalam
+http://watchindia.net:8880/live/79527/25638/2632.ts
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Nick_Tamil.png" group-title="Kids",Nick Tamil
+http://watchindia.net:8880/live/79527/25638/2181.ts
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="http://watchindia.net/images/channels/usa/Nickelodeon.png" group-title="Kids",Nickelodeon
+http://watchindia.net:8880/live/79527/25638/2049.ts
+#EXTINF:-1 tvg-id="sonicnickelodeon.in" tvg-name="Nickelodeon Sonic" tvg-logo="https://watchindia.net/images/channels/malayalam/Nick_Sonic.png" group-title="Kids",Nickelodeon Sonic
+http://watchindia.net:8880/live/79527/25638/2631.ts
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://watchindia.net/images/channels/usa/Nicktoons.png" group-title="Kids",Nicktoons
+http://watchindia.net:8880/live/79527/25638/2064.ts
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="Knowledge",Animal Planet
+http://watchindia.net:8880/live/79527/25638/2039.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" group-title="Knowledge",Discovery Channel
+http://watchindia.net:8880/live/79527/25638/2036.ts
+#EXTINF:-1 tvg-id="discovery.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="Knowledge",Discovery Channel Hindi
+http://watchindia.net:8880/live/79527/25638/841.ts
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Knowledge",History TV18 HD
+http://watchindia.net:8880/live/79527/25638/791.ts
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="Knowledge",National Geographic
+http://watchindia.net:8880/live/79527/25638/2037.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="Movies",& Pictures HD
+http://watchindia.net:8880/live/79527/25638/783.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Ranjith Cinema (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSx7nwhbRfQ68JL982uBICGob6Y.jpg" group-title="Movies",A Ranjith Cinema (2023)
+http://watchindia.net:8880/movie/79527/25638/2598.mkv
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax" tvg-logo="https://watchindia.net/images/channels/usa/Cinemax.png" group-title="Movies",Cinemax
+http://watchindia.net:8880/live/79527/25638/2065.ts
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="Movies",Colors Cineplex HD
+http://watchindia.net:8880/live/79527/25638/803.ts
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="Movies",Sky Cinema Action
+http://watchindia.net:8880/live/79527/25638/2176.ts
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="Movies",Sky Cinema Comedy
+http://watchindia.net:8880/live/79527/25638/2177.ts
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="Movies",Sky Cinema Drama
+http://watchindia.net:8880/live/79527/25638/2179.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="Movies",Sky Cinema Family
+http://watchindia.net:8880/live/79527/25638/2173.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="Movies",Sky Cinema Greats
+http://watchindia.net:8880/live/79527/25638/2172.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="Movies",Sky Cinema Hits
+http://watchindia.net:8880/live/79527/25638/2171.ts
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="Movies",Sky Cinema Premiere
+http://watchindia.net:8880/live/79527/25638/2169.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="Movies",Sky Cinema Sci-Fi/Horror
+http://watchindia.net:8880/live/79527/25638/2180.ts
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="Movies",Sky Cinema Select
+http://watchindia.net:8880/live/79527/25638/2170.ts
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="Movies",Sky Cinema Thriller
+http://watchindia.net:8880/live/79527/25638/2178.ts
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max 2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="Movies",Sony Max 2
+http://watchindia.net:8880/live/79527/25638/2024.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Movies",Sony Max HD
+http://watchindia.net:8880/live/79527/25638/788.ts
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Wah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="Movies",Sony Wah
+http://watchindia.net:8880/live/79527/25638/814.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Movies",Star Gold HD
+http://watchindia.net:8880/live/79527/25638/785.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
+http://watchindia.net:8880/live/79527/25638/784.ts
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Movies",Zee Action
+http://watchindia.net:8880/live/79527/25638/821.ts
+#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="https://watchindia.net/images/channels/bengali/Zee_Bangla_Cinema.png" group-title="Movies",Zee Bangla Cinema
+http://watchindia.net:8880/live/79527/25638/2287.ts
+#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="Movies",Zee Bollywood
+http://watchindia.net:8880/live/79527/25638/822.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
+http://watchindia.net:8880/live/79527/25638/787.ts
+#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="Zee Cinemalu HD" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu HD
+http://watchindia.net:8880/live/79527/25638/941.ts
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="Movies",Zee Classic
+http://watchindia.net:8880/live/79527/25638/802.ts
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="Other",& Flix HD
+http://watchindia.net:8880/live/79527/25638/2088.ts
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="Other",& Prive HD
+http://watchindia.net:8880/live/79527/25638/2103.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Great Gambler (1979)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ3ZTEwYjgtZjlkMC00NzAzLTgxNDYtZTk1N2M2MzMwODUyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,597,1000_AL_.jpg" group-title="Other",0,597,1000_AL_.jpg" group-title="Hindi",The Great Gambler (1979)
+http://watchindia.net:8880/movie/79527/25638/1812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bunker" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE5ODM2NjMtODM5OS00YzIwLWIwM2YtNzgzNzliOTdjYzk2XkEyXkFqcGdeQXVyMzU5MjgwNTA@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="Other",0,666,1000_AL_.jpg" group-title="Hindi",Bunker
+http://watchindia.net:8880/movie/79527/25638/1986.avi
+#EXTINF:-1 tvg-id="" tvg-name="Don (1978)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYwZjA0NmMtZWJmYy00ZTZlLWEzZTEtZGJhYTQ1NzFkNDQ3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="Other",0,666,1000_AL_.jpg" group-title="Hindi",Don (1978)
+http://watchindia.net:8880/movie/79527/25638/1835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="English Babu Desi Mem (1996)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FmMjU1ZjAtYmY5MS00ODM4LWE5MDAtYzUxMDhhNTIwNzc3XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="Other",0,666,1000_AL_.jpg" group-title="Hindi",English Babu Desi Mem (1996)
+http://watchindia.net:8880/movie/79527/25638/1445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mrityudaata (1997)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg1ZThkZTgtYzBlZS00YzQwLThmMDUtNjFhY2U0NjhmMTRmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="Other",0,666,1000_AL_.jpg" group-title="Hindi",Mrityudaata (1997)
+http://watchindia.net:8880/movie/79527/25638/1825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shahenshah (1988)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWRhNzA3MmUtMDE4My00OTZkLWIwNWUtZGFhZDU0ZWZkM2ZjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="Other",0,666,1000_AL_.jpg" group-title="Hindi",Shahenshah (1988)
+http://watchindia.net:8880/movie/79527/25638/1833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inquilaab (1984)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwZjI1N2QtOTZlNi00ODNlLTliMDUtY2M4MWNhZjJiNzM1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,680,1000_AL_.jpg" group-title="Other",0,680,1000_AL_.jpg" group-title="Hindi",Inquilaab (1984)
+http://watchindia.net:8880/movie/79527/25638/1850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oh Darling! Yeh Hai India! (1995)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDAxMDhmNTUtZDllMS00MGYyLWIyYTEtMzE3NWQ1NjdlYjJjXkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_SY1000_CR0,0,691,1000_AL_.jpg" group-title="Other",0,691,1000_AL_.jpg" group-title="Hindi",Oh Darling! Yeh Hai India! (1995)
+http://watchindia.net:8880/movie/79527/25638/1427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paheli (2005)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjNmMDJjZWEtMTRjMS00YzMwLWI2NzMtYjY3YjA2NzY3ZWViXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,691,1000_AL_.jpg" group-title="Other",0,691,1000_AL_.jpg" group-title="Hindi",Paheli (2005)
+http://watchindia.net:8880/movie/79527/25638/1443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yeh Lamhe Judaai Ke (2004)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRiY2NhMzQtN2YyOS00YzJlLWIxNDQtYTA2YzRlODdmZDZkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX691_CR0,0,691,999_AL_.jpg" group-title="Other",0,691,999_AL_.jpg" group-title="Hindi",Yeh Lamhe Judaai Ke (2004)
+http://watchindia.net:8880/movie/79527/25638/1442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agni Varsha (2002)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VkYjBkMjUtMTI5YS00MzdlLWE3OGEtOTc5MzI4NGNmZTI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,692,1000_AL_.jpg" group-title="Other",0,692,1000_AL_.jpg" group-title="Hindi",Agni Varsha (2002)
+http://watchindia.net:8880/movie/79527/25638/1859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Family: Ties of Blood (2006)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY1NTAwYjYtYmEwYy00ZTc1LWJiMjQtYWVmYzA3OThjYmNhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,692,1000_AL_.jpg" group-title="Other",0,692,1000_AL_.jpg" group-title="Hindi",Family: Ties of Blood (2006)
+http://watchindia.net:8880/movie/79527/25638/1803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armaan (2003)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJlYzI4ZDQtODAwYi00MWM4LWE1MjctYTExMTQ0NDFiNGYyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,693,1000_AL_.jpg" group-title="Other",0,693,1000_AL_.jpg" group-title="Hindi",Armaan (2003)
+http://watchindia.net:8880/movie/79527/25638/1871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Waqt (2005)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTExMzg3YTktYTFjMy00N2QyLWIzZTUtNDZiMTcxNDA4MTBjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,695,1000_AL_.jpg" group-title="Other",0,695,1000_AL_.jpg" group-title="Hindi",Waqt (2005)
+http://watchindia.net:8880/movie/79527/25638/1786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurmana (1979)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzczMWQ2MDktYTcwNC00MDkxLTkwNDQtZjE0ZDNmNDZhNjcxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,699,1000_AL_.jpg" group-title="Other",0,699,1000_AL_.jpg" group-title="Hindi",Jurmana (1979)
+http://watchindia.net:8880/movie/79527/25638/1811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Nazar (1972)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjY5ZjkxMGItNTJlZC00NTNlLWI4NzItNTJhYWY5ZDc3NjJmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,708,1000_AL_.jpg" group-title="Other",0,708,1000_AL_.jpg" group-title="Hindi",Ek Nazar (1972)
+http://watchindia.net:8880/movie/79527/25638/1874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desh Premi (1982)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0YmRlOTMtOTVlNy00NzljLThlZTgtMzAxNTc5OTcwN2Y2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX715_CR0,0,715,999_AL_.jpg" group-title="Other",0,715,999_AL_.jpg" group-title="Hindi",Desh Premi (1982)
+http://watchindia.net:8880/movie/79527/25638/1810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hum Kisi Se Kum Nahin (2002)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRiNTc3MmQtMTJlOC00NjdmLThjNjUtNGE4NzY2NzJkNjBiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,717,1000_AL_.jpg" group-title="Other",0,717,1000_AL_.jpg" group-title="Hindi",Hum Kisi Se Kum Nahin (2002)
+http://watchindia.net:8880/movie/79527/25638/1800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Do Anjaane (1976)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyMWI1MmMtMjQzYS00NDg3LTg4OWUtYzljN2JmMjBmNmZiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,721,1000_AL_.jpg" group-title="Other",0,721,1000_AL_.jpg" group-title="Hindi",Do Anjaane (1976)
+http://watchindia.net:8880/movie/79527/25638/1780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raju Ban Gaya Gentleman (1992)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFiYTk0ZmYtYWY3OC00MGQ1LWFjZGEtMjZmOTQyZWFjYjg2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,726,1000_AL_.jpg" group-title="Other",0,726,1000_AL_.jpg" group-title="Hindi",Raju Ban Gaya Gentleman (1992)
+http://watchindia.net:8880/movie/79527/25638/1404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaarana (1981)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQzZTgzNTEtNGJmOS00MjJlLTg2ZmQtNThhZjM3ZTE5Y2E4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,726,1000_AL_.jpg" group-title="Other",0,726,1000_AL_.jpg" group-title="Hindi",Yaarana (1981)
+http://watchindia.net:8880/movie/79527/25638/1860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Benaam (1974)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThkMjdmOTktMjhlYS00MmEyLWI3NTUtOGUyM2EwMDVjZTljXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,749,1000_AL_.jpg" group-title="Other",0,749,1000_AL_.jpg" group-title="Hindi",Benaam (1974)
+http://watchindia.net:8880/movie/79527/25638/1841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Khud-Daar (1982)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU3OWQ1NTYtZDdhZi00NzE3LWI0NmUtZjU1NjhlY2ZiYjM5XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY1000_CR0,0,751,1000_AL_.jpg" group-title="Other",0,751,1000_AL_.jpg" group-title="Hindi",Khud-Daar (1982)
+http://watchindia.net:8880/movie/79527/25638/1784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abhimaan (1973)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU2ODYxYzktMTcwMy00YWM2LWExNmYtNzZlMjhmODU3Mzg5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,766,1000_AL_.jpg" group-title="Other",0,766,1000_AL_.jpg" group-title="Hindi",Abhimaan (1973)
+http://watchindia.net:8880/movie/79527/25638/1862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Akayla (1991)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhiYmNlN2ItN2ViNy00YmExLTg2YWYtOTRiYmI3ZGU1OTg1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,767,1000_AL_.jpg" group-title="Other",0,767,1000_AL_.jpg" group-title="Hindi",Akayla (1991)
+http://watchindia.net:8880/movie/79527/25638/1801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1920: Horrors of the Heart (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTe8eTiHocRLjMnx6ArBovQRqbe.jpg" group-title="Other",1920: Horrors of the Heart (2023)
+http://watchindia.net:8880/movie/79527/25638/2573.mkv
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Other",9X Jalwa
+http://watchindia.net:8880/live/79527/25638/828.ts
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM Music" tvg-logo="https://watchindia.net/images/channels/hindi/9XM_Music.png" group-title="Other",9XM Music
+http://watchindia.net:8880/live/79527/25638/827.ts
+#EXTINF:-1 tvg-id="abpasmita.in" tvg-name="ABP Asmita HD" tvg-logo="https://watchindia.net/images/channels/gujurati/ABP_Asmita.png" group-title="Other",ABP Asmita HD
+http://watchindia.net:8880/live/79527/25638/1012.ts
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://watchindia.net/images/channels/hindi/ABP_News.png" group-title="Other",ABP News
+http://watchindia.net:8880/live/79527/25638/833.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aafat-e-Ishq (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wN4B6UBUiVyofmOFVwdgeVk38L.jpg" group-title="Other",Aafat-e-Ishq (2021)
+http://watchindia.net:8880/movie/79527/25638/2280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Ka Arjun (1990)" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y4NGUwMTYtZjYxNC00NmZlLTlkY2EtMmI3YmVlNDJjNTdjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Other",Aaj Ka Arjun (1990)
+http://watchindia.net:8880/movie/79527/25638/1832.mkv
+#EXTINF:-1 tvg-id="aajtak.in" tvg-name="Aaj Tak" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak.png" group-title="Other",Aaj Tak
+http://watchindia.net:8880/live/79527/25638/836.ts
+#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="Aaj Tak HD" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak_HD.png" group-title="Other",Aaj Tak HD
+http://watchindia.net:8880/live/79527/25638/807.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aankhen (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv9tCwXzvTFSbA2OmH9nqQZCNQ7.jpg" group-title="Other",Aankhen (2002)
+http://watchindia.net:8880/movie/79527/25638/1790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aarakshan (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m7gtDNTJNRNCGS5VTEmjRXKlZ3.jpg" group-title="Other",Aarakshan (2011)
+http://watchindia.net:8880/movie/79527/25638/1875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ab Tumhare Hawale Watan Saathiyo (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxYbTEakxvnigRab30Nwlyu7lRC.jpg" group-title="Other",Ab Tumhare Hawale Watan Saathiyo (2004)
+http://watchindia.net:8880/movie/79527/25638/1883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adalat (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5LqrTSw0Uo5S0qJlEbJeTpcAay.jpg" group-title="Other",Adalat (1976)
+http://watchindia.net:8880/movie/79527/25638/1822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afwaah (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deBTwlgJ6vrup7zpCODofbebZGZ.jpg" group-title="Other",Afwaah (2023)
+http://watchindia.net:8880/movie/79527/25638/2575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agneepath (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k65APUxn5lOwatA8r2aBvwOmyqA.jpg" group-title="Other",Agneepath (1990)
+http://watchindia.net:8880/movie/79527/25638/1775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aks (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMOkzAaHuQvHT6pxl53VlYO49zw.jpg" group-title="Other",Aks (2001)
+http://watchindia.net:8880/movie/79527/25638/1813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alaap (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHpgSe8MAGVGiHN9dwemRvow10N.jpg" group-title="Other",Alaap (1977)
+http://watchindia.net:8880/movie/79527/25638/1823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aladin (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90xSKwsBBciN018LyQwVhuIDJN7.jpg" group-title="Other",Aladin (2009)
+http://watchindia.net:8880/movie/79527/25638/1889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amar Akbar Anthony (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnK0pJj3Ntk8P2ED5kuxwezzVph.jpg" group-title="Other",Amar Akbar Anthony (1977)
+http://watchindia.net:8880/movie/79527/25638/1774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anand (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgrege8e0yk3SSdHzHfMTvk2ffc.jpg" group-title="Other",Anand (1971)
+http://watchindia.net:8880/movie/79527/25638/1845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Andhaa Kaanoon" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2YyOWU4NzQtYWFlYS00OWM0LTkzMDUtODk5NjNkN2Q0ZGM5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX778_AL_.jpg" group-title="Other",Andhaa Kaanoon
+http://watchindia.net:8880/movie/79527/25638/1890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angrezi Medium (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BTzAj0OWy8852qH6YveWuRMrh9.jpg" group-title="Other",Angrezi Medium (2020)
+http://watchindia.net:8880/movie/79527/25638/1981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anjaam (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFApcnDklvFRBSjZRtbsXVAI5lO.jpg" group-title="Other",Anjaam (1994)
+http://watchindia.net:8880/movie/79527/25638/1432.mkv
+#EXTINF:-1 tvg-id="asianet.in" tvg-name="Asianet HD (1)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_HD.png" group-title="Other",Asianet HD (1)
+http://watchindia.net:8880/live/79527/25638/276.ts
+#EXTINF:-1 tvg-id="asianet.in" tvg-name="Asianet HD (2)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_HD.png" group-title="Other",Asianet HD (2)
+http://watchindia.net:8880/live/79527/25638/2216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" group-title="Other",Astro Cricket
+http://watchindia.net:8880/live/79527/25638/2174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Axone (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOI0cjMmjruvUQ6QIbMfSjzWBLk.jpg" group-title="Other",Axone (2019)
+http://watchindia.net:8880/movie/79527/25638/2070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aśoka (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbcnZc1NWTFjcV1IJfU7ZLdPOLf.jpg" group-title="Other",Aśoka (2001)
+http://watchindia.net:8880/movie/79527/25638/1410.mkv
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Other",B4U Music
+http://watchindia.net:8880/live/79527/25638/2113.ts
+#EXTINF:-1 tvg-id="b4uplus.in" tvg-name="B4U Plus" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png" group-title="Other",B4U Plus
+http://watchindia.net:8880/live/79527/25638/823.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baabul (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/301y5k764riqCJIgzs1OIh7d0MA.jpg" group-title="Other",Baabul (2006)
+http://watchindia.net:8880/movie/79527/25638/1847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baadshah (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udmdStK2EhdKC0miaQ27fwi9LVB.jpg" group-title="Other",Baadshah (1999)
+http://watchindia.net:8880/movie/79527/25638/1407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqTQvVyhqFJTUlE1VXTtyYEfyu3.jpg" group-title="Other",Baaghi 3 (2020)
+http://watchindia.net:8880/movie/79527/25638/2075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baazigar (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqFSU3hdRQKsPxJ3OYh3nyVZqY1.jpg" group-title="Other",Baazigar (1993)
+http://watchindia.net:8880/movie/79527/25638/1406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bada Kabutar (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EBKiSTMEsJL4ah7b5Hp51qkt8B.jpg" group-title="Other",Bada Kabutar (1973)
+http://watchindia.net:8880/movie/79527/25638/1888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bade Miyan Chote Miyan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iiBcRXR8OFDyfXitR5W72z7rrU.jpg" group-title="Other",Bade Miyan Chote Miyan (1998)
+http://watchindia.net:8880/movie/79527/25638/1789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baghban (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgbVBto2bQ9j9OjWqT9VC328EOe.jpg" group-title="Other",Baghban (2003)
+http://watchindia.net:8880/movie/79527/25638/1793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bamfaad (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIVXIYYyjstoBMhCts52x6jX77.jpg" group-title="Other",Bamfaad (2020)
+http://watchindia.net:8880/movie/79527/25638/1990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandhe Haath (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS4V8N31V5Dz9xv0eoXQhXBw2Sp.jpg" group-title="Other",Bandhe Haath (1973)
+http://watchindia.net:8880/movie/79527/25638/1885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bansi Birju (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygkdFmd9drxInPMfl5rE1ys1BQ5.jpg" group-title="Other",Bansi Birju (1972)
+http://watchindia.net:8880/movie/79527/25638/1830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barsaat Ki Ek Raat (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAdQZbMTgNLQz6Fbudx193alcqz.jpg" group-title="Other",Barsaat Ki Ek Raat (1981)
+http://watchindia.net:8880/movie/79527/25638/1877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bbuddah Hoga Terra Baap (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yatGTB5sPpVySH7LqAALljmeeR5.jpg" group-title="Other",Bbuddah Hoga Terra Baap (2011)
+http://watchindia.net:8880/movie/79527/25638/1796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bemisal (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUqWbGNRXPkPtcELUkktkmRIUXK.jpg" group-title="Other",Bemisal (1982)
+http://watchindia.net:8880/movie/79527/25638/1887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Besharam (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sxvDZij6nch2kKFlXPqfzDtScd.jpg" group-title="Other",Besharam (1978)
+http://watchindia.net:8880/movie/79527/25638/1782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bhola Shankar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgip2gbwu19ITJw1KvzLjKHIInt.jpg" group-title="Other",Bhola Shankar (2023)
+http://watchindia.net:8880/movie/79527/25638/2544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhoot: Part One - The Haunted Ship (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY7wjv03pSdn7FOFgmHIIaUnSFJ.jpg" group-title="Other",Bhoot: Part One - The Haunted Ship (2020)
+http://watchindia.net:8880/movie/79527/25638/1993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhoothnath (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg" group-title="Other",Bhoothnath (2008)
+http://watchindia.net:8880/movie/79527/25638/1389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhoothnath (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg" group-title="Other",Bhoothnath (2008)
+http://watchindia.net:8880/movie/79527/25638/1844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhoothnath Returns (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMC0kbfcBSxVOAsFXxw9Pg1NBJ8.jpg" group-title="Other",Bhoothnath Returns (2014)
+http://watchindia.net:8880/movie/79527/25638/1821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RtfmW00zS4bgMECJYo32fxaAhL.jpg" group-title="Other",Black (2005)
+http://watchindia.net:8880/movie/79527/25638/1838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blackboard vs Whiteboard (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83gg2RiYh8HVoatxCFlv8NoDgEh.jpg" group-title="Other",Blackboard vs Whiteboard (2019)
+http://watchindia.net:8880/movie/79527/25638/1995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bloody Daddy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX8k6oKpIsWHpfWNz3Bu4wUuliA.jpg" group-title="Other",Bloody Daddy (2023)
+http://watchindia.net:8880/movie/79527/25638/2578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boom (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctNn9pZpLm7x5hvMw3rlfj48FEF.jpg" group-title="Other",Boom (2003)
+http://watchindia.net:8880/movie/79527/25638/1880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bunty Aur Babli (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32OxUzs9ETQ3QvLFFYaDuuAtq3Y.jpg" group-title="Other",Bunty Aur Babli (2005)
+http://watchindia.net:8880/movie/79527/25638/1806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bypass Road (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpcgHflODKQu4s5mtWim4sAi95B.jpg" group-title="Other",Bypass Road (2019)
+http://watchindia.net:8880/movie/79527/25638/1991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chaahat (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cn3gL1s7ZshDUTjcZ0W4JCyBBc6.jpg" group-title="Other",Chaahat (1996)
+http://watchindia.net:8880/movie/79527/25638/1403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chalte Chalte (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eux23WmDXUkmgLdMdxuuFn9II4.jpg" group-title="Other",Chalte Chalte (2003)
+http://watchindia.net:8880/movie/79527/25638/1413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chaman Bahar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfVAx36bnczMArJB8eFZuoDdKC4.jpg" group-title="Other",Chaman Bahar (2020)
+http://watchindia.net:8880/movie/79527/25638/2072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chamatkar (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg" group-title="Other",Chamatkar (1992)
+http://watchindia.net:8880/movie/79527/25638/1396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cheeni Kum (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FqUXPpXb20qQ86osDiOduNweAb.jpg" group-title="Other",Cheeni Kum (2007)
+http://watchindia.net:8880/movie/79527/25638/1788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chennai Express (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LZgpUyFEvqHaDVuveE002mhgTi.jpg" group-title="Other",Chennai Express (2013)
+http://watchindia.net:8880/movie/79527/25638/1424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chintu Ka Birthday (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nldm1eYboZffODf5OBBhvqHY2cy.jpg" group-title="Other",Chintu Ka Birthday (2020)
+http://watchindia.net:8880/movie/79527/25638/2068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chupke Chupke (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNZf2yhQE42f3uIcR1IXOiMQ72c.jpg" group-title="Other",Chupke Chupke (1975)
+http://watchindia.net:8880/movie/79527/25638/1824.mkv
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="Colors Bangla HD" tvg-logo="https://watchindia.net/images/channels/bengali/Colors_Bangla_HD.png" group-title="Other",Colors Bangla HD
+http://watchindia.net:8880/live/79527/25638/2284.ts
+#EXTINF:-1 tvg-id="colorskannadahd.in" tvg-name="Colors HD Kannada" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_HD.png" group-title="Other",Colors HD Kannada
+http://watchindia.net:8880/live/79527/25638/982.ts
+#EXTINF:-1 tvg-id="colorsmarathihd.in" tvg-name="Colors HD Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Colors_HD.png" group-title="Other",Colors HD Marathi
+http://watchindia.net:8880/live/79527/25638/912.ts
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="Colors Rishtey HD" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_Rishtey_Asia.png" group-title="Other",Colors Rishtey HD
+http://watchindia.net:8880/live/79527/25638/830.ts
+#EXTINF:-1 tvg-id="colorssuper.in" tvg-name="Colors Super HD" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_Super.png" group-title="Other",Colors Super HD
+http://watchindia.net:8880/live/79527/25638/983.ts
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="Other",Colors Tamil HD
+http://watchindia.net:8880/live/79527/25638/2083.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coolie (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzMHtBjoRMrjLzrnbsAVk3HdrEz.jpg" group-title="Other",Coolie (1983)
+http://watchindia.net:8880/movie/79527/25638/1866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darr (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vkTd5syYW7EXK1gyGLJYJxJ7u.jpg" group-title="Other",Darr (1993)
+http://watchindia.net:8880/movie/79527/25638/1418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear Zindagi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg" group-title="Other",Dear Zindagi (2016)
+http://watchindia.net:8880/movie/79527/25638/1429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deewana (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8liOcHgcghI3aQFxq8QCGKKqQKX.jpg" group-title="Other",Deewana (1992)
+http://watchindia.net:8880/movie/79527/25638/1398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delhi-6 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52raGhYfU3oM25imWZFZnQ16XZI.jpg" group-title="Other",Delhi-6 (2009)
+http://watchindia.net:8880/movie/79527/25638/1831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Department (2012)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmY0NWUzOGItYTFmYS00M2E4LTkyZmEtMzNmZjhiNDk5M2E5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX692_AL_.jpg" group-title="Other",Department (2012)
+http://watchindia.net:8880/movie/79527/25638/1826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dev (2004)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3N2U0OTYtMzgwMy00NmUwLTk0MWItYjVlNmQxNDE5NDgyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Other",Dev (2004)
+http://watchindia.net:8880/movie/79527/25638/1783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deva (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KGVSYfwLQMdAUgtuiXMl7ohg1a.jpg" group-title="Other",Deva (2025)
+http://watchindia.net:8880/movie/79527/25638/2720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devdas (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYxhiktdqd8oZ2jawvSkkijE9ve.jpg" group-title="Other",Devdas (2002)
+http://watchindia.net:8880/movie/79527/25638/1394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Aashna Hai (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zP4JTdn3PAIqLkT1NaoUJNG7E0z.jpg" group-title="Other",Dil Aashna Hai (1992)
+http://watchindia.net:8880/movie/79527/25638/1392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil Jo Bhi Kahey... (2006)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBhMGEyM2MtMmZkMi00ODgzLTg4ZjktY2VhMWVhNTk5ZWQ5XkEyXkFqcGdeQXVyNTY0NTY4NzY@._V1_.jpg" group-title="Other",Dil Jo Bhi Kahey... (2006)
+http://watchindia.net:8880/movie/79527/25638/1827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Se.. (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfEQqI471KmiuaxWMqhNCEVv022.jpg" group-title="Other",Dil Se.. (1998)
+http://watchindia.net:8880/movie/79527/25638/1422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil To Pagal Hai (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HKUrZZbXnwCM4129fPlgHEg0eG.jpg" group-title="Other",Dil To Pagal Hai (1997)
+http://watchindia.net:8880/movie/79527/25638/1421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dilwale (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYgPu6hhOr61knwbestTx4vSdMb.jpg" group-title="Other",Dilwale (2015)
+http://watchindia.net:8880/movie/79527/25638/1436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dilwale Dulhania Le Jayenge (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CAL2433ZeIihfX1Hb2139CX0pW.jpg" group-title="Other",Dilwale Dulhania Le Jayenge (1995)
+http://watchindia.net:8880/movie/79527/25638/1440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gBM8c36HIwn4vc2UuMeliqiCKY.jpg" group-title="Other",Don 2 (2011)
+http://watchindia.net:8880/movie/79527/25638/1428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doordarshan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXnN1gvhcIwubk5sgOmwF67rmMv.jpg" group-title="Other",Doordarshan (2020)
+http://watchindia.net:8880/movie/79527/25638/2076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dostana (1980)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY1ZjIwODItNGVkOS00Zjg4LWE3NmEtOWY0MDAyZDM5YjRiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Other",Dostana (1980)
+http://watchindia.net:8880/movie/79527/25638/1814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dulha Mil Gaya (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDhmsg4yn6kQOiLJmjLEm3wg3nX.jpg" group-title="Other",Dulha Mil Gaya (2010)
+http://watchindia.net:8880/movie/79527/25638/1426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duplicate (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg" group-title="Other",Duplicate (1998)
+http://watchindia.net:8880/movie/79527/25638/1400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dybbuk (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sy0u4UEzMxrj7G79LMQWcuO15kt.jpg" group-title="Other",Dybbuk (2021)
+http://watchindia.net:8880/movie/79527/25638/2310.mkv
+#EXTINF:-1 tvg-id="e24.in" tvg-name="E24" tvg-logo="https://watchindia.net/images/channels/hindi/E24.png" group-title="Other",E24
+http://watchindia.net:8880/live/79527/25638/829.ts
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="Other",ETV HD
+http://watchindia.net:8880/live/79527/25638/936.ts
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV Plus HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="Other",ETV Plus HD
+http://watchindia.net:8880/live/79527/25638/937.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ek Ajnabee (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQTyq1a5xugwrBIN9jJNB46XaI4.jpg" group-title="Other",Ek Ajnabee (2005)
+http://watchindia.net:8880/movie/79527/25638/1879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Rishtaa: The Bond of Love (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kt8VyFHNc7r09Vv9QLuszkqv5Yp.jpg" group-title="Other",Ek Rishtaa: The Bond of Love (2001)
+http://watchindia.net:8880/movie/79527/25638/1808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eklavya: The Royal Guard (2007)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FiM2YzMGMtNzhhZS00N2E3LWI3MDEtNzAxODIxNWY5ZTkzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX750_AL_.jpg" group-title="Other",Eklavya: The Royal Guard (2007)
+http://watchindia.net:8880/movie/79527/25638/1851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ekram (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SnTLrOXSAyDtB37h8uyOMeF7Cj.jpg" group-title="Other",Ekram (2020)
+http://watchindia.net:8880/movie/79527/25638/1988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="English: An Autumn in London (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxRpYoHRmxQ4PwoqHk85GOp2oML.jpg" group-title="Other",English: An Autumn in London (2012)
+http://watchindia.net:8880/movie/79527/25638/1655.mkv
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://watchindia.net/images/channels/hindi/Epic_HD.png" group-title="Other",Epic TV
+http://watchindia.net:8880/live/79527/25638/794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fan (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqyoBeaZaVJwAAMVB2t2q6kIHo3.jpg" group-title="Other",Fan (2016)
+http://watchindia.net:8880/movie/79527/25638/1412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Faraar (1975)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY5MzI3YjctMWI5OC00YTMxLTk4ZWItYzhjMzgyMmI3MDA0XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_.jpg" group-title="Other",Faraar (1975)
+http://watchindia.net:8880/movie/79527/25638/1854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game Changer (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg" group-title="Other",Game Changer (2025)
+http://watchindia.net:8880/movie/79527/25638/2723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gangaa Jamunaa Saraswathi (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB1goBP3a773XwHjYq2FPi0UWiF.jpg" group-title="Other",Gangaa Jamunaa Saraswathi (1988)
+http://watchindia.net:8880/movie/79527/25638/1852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gehri Chaal (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXjY77TJBRpY6qURi5w2XCJnKtl.jpg" group-title="Other",Gehri Chaal (1973)
+http://watchindia.net:8880/movie/79527/25638/1865.mp4
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="Other",Gemini Movies HD
+http://watchindia.net:8880/live/79527/25638/930.ts
+#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="Gemini Music HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="Other",Gemini Music HD
+http://watchindia.net:8880/live/79527/25638/929.ts
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Gemini TV HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="Other",Gemini TV HD
+http://watchindia.net:8880/live/79527/25638/928.ts
+#EXTINF:-1 tvg-id="" tvg-name="God Tussi Great Ho (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K8FCmGrNpaAGXaxXovU7LLC0HF.jpg" group-title="Other",God Tussi Great Ho (2008)
+http://watchindia.net:8880/movie/79527/25638/1829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guddu (1995)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxNDYxNzY4N15BMl5BanBnXkFtZTcwNDM2ODgzMQ@@._V1_.jpg" group-title="Other",Guddu (1995)
+http://watchindia.net:8880/movie/79527/25638/1390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guilty (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Yx7tnb1d5vwrMH7Rxki1e4zp4.jpg" group-title="Other",Guilty (2020)
+http://watchindia.net:8880/movie/79527/25638/1978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gulabo Sitabo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHZgf2kWnedWSVC1QK8kck4vuyt.jpg" group-title="Other",Gulabo Sitabo (2020)
+http://watchindia.net:8880/movie/79527/25638/2069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hacked (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DJdpaqWMznsZbh6jaKxDTGoSjw.jpg" group-title="Other",Hacked (2020)
+http://watchindia.net:8880/movie/79527/25638/1987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Haddi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sq61lHgNdKyvpXOgwhZoc4Iosno.jpg" group-title="Other",Haddi (2023)
+http://watchindia.net:8880/movie/79527/25638/2545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy New Year (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AoOFTdpWOb2tBUrJB2bJF427Em.jpg" group-title="Other",Happy New Year (2014)
+http://watchindia.net:8880/movie/79527/25638/1416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hello Brother (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeIVLNCZZZuCXUhiPWHxgtuIh9a.jpg" group-title="Other",Hello Brother (1999)
+http://watchindia.net:8880/movie/79527/25638/1856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hera Pheri (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kskAXT5zqpx459QacGRwuoC8rvz.jpg" group-title="Other",Hera Pheri (1976)
+http://watchindia.net:8880/movie/79527/25638/1840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hey Ram (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97eDXLQKvc6IDhYI9stysxllJnb.jpg" group-title="Other",Hey Ram (2000)
+http://watchindia.net:8880/movie/79527/25638/1417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heyy Babyy (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XxhqihX1kcZXcvJ48aQlPYHPQo.jpg" group-title="Other",Heyy Babyy (2007)
+http://watchindia.net:8880/movie/79527/25638/1391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hindustan Ki Kasam (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCcdnqWI3Yox7cPkVisgL4DnU0.jpg" group-title="Other",Hindustan Ki Kasam (1999)
+http://watchindia.net:8880/movie/79527/25638/1777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blnhL1cIxjjLgNdlDA8tIbvbCCO.jpg" group-title="Other",Hum (1991)
+http://watchindia.net:8880/movie/79527/25638/1819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum Do Hamare Do (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBHaPMGxzrY5GX9MZr1GuivucuJ.jpg" group-title="Other",Hum Do Hamare Do (2021)
+http://watchindia.net:8880/movie/79527/25638/2277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hum Tumhare Hain Sanam (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46IXH3NtlWv2i7IeFigT5yb5T5.jpg" group-title="Other",Hum Tumhare Hain Sanam (2002)
+http://watchindia.net:8880/movie/79527/25638/1439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Killed Bapu (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pksVd0XEpuot0QfLI9BIZq3x92.jpg" group-title="Other",I Killed Bapu (2023)
+http://watchindia.net:8880/movie/79527/25638/2543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Love You (2023)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg2OTJkY2QtMWIzYS00OGFhLWI3YTgtYTA5MWRhMjdhZDk3XkEyXkFqcGdeQXVyMTY0NjI3Mjcx._V1_FMjpg_UY474_.jpg" group-title="Other",I Love You (2023)
+http://watchindia.net:8880/movie/79527/25638/2577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IB 71 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3tDKjw14Ig3suHOx8GSBtCxEX7.jpg" group-title="Other",IB 71 (2023)
+http://watchindia.net:8880/movie/79527/25638/2574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Immaan Dharam (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53i1VsDOMY1uUw9bKXQtq2d15RJ.jpg" group-title="Other",Immaan Dharam (1977)
+http://watchindia.net:8880/movie/79527/25638/1797.mp4
+#EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://watchindia.net/images/channels/hindi/India_Today_TV.png" group-title="Other",India Today
+http://watchindia.net:8880/live/79527/25638/835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Indrajeet (1991)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ExZTFlZTQtMDM4YS00MTcyLTg1OWQtZWVjNTllZjVlYTAzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX762_AL_.jpg" group-title="Other",Indrajeet (1991)
+http://watchindia.net:8880/movie/79527/25638/1794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaadugar (1989)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBiNmZlMDEtNTJkZC00YmQzLWEwZDEtZDdlY2YzN2RiNWU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX754_AL_.jpg" group-title="Other",Jaadugar (1989)
+http://watchindia.net:8880/movie/79527/25638/1809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jab Harry Met Sejal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h0tSW3lWCH5mXi78EfyhqUjeGO.jpg" group-title="Other",Jab Harry Met Sejal (2017)
+http://watchindia.net:8880/movie/79527/25638/1399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jab Tak Hai Jaan (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGoPWxz4v8HT8ydr2VdAa1OVohS.jpg" group-title="Other",Jab Tak Hai Jaan (2012)
+http://watchindia.net:8880/movie/79527/25638/1437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jai Bhim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zb9QBUn5AZzoKCS2jsnhp6ySSGp.jpg" group-title="Other",Jai Bhim (2021)
+http://watchindia.net:8880/movie/79527/25638/2279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jai Mummy Di (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thLbG17dOd8s4toz9ksgsXXrooR.jpg" group-title="Other",Jai Mummy Di (2020)
+http://watchindia.net:8880/movie/79527/25638/1992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jawaani Jaaneman (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsMaCoHaYMXdRf9383KjksYP88a.jpg" group-title="Other",Jawaani Jaaneman (2020)
+http://watchindia.net:8880/movie/79527/25638/1980.mkv
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title="Other",Jaya TV HD
+http://watchindia.net:8880/live/79527/25638/851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jhoom Barabar Jhoom (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huMy3LnFvpiD8ewlIYRIEBRms6l.jpg" group-title="Other",Jhoom Barabar Jhoom (2007)
+http://watchindia.net:8880/movie/79527/25638/1869.mkv
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="Other",KTV HD
+http://watchindia.net:8880/live/79527/25638/845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kaala Patthar (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKcSGhCqsbF3GQkgORY7OWejRey.jpg" group-title="Other",Kaala Patthar (1979)
+http://watchindia.net:8880/movie/79527/25638/1849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaalia (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvWTk8r7ivG818I3aszCnMvtBjF.jpg" group-title="Other",Kaalia (1981)
+http://watchindia.net:8880/movie/79527/25638/1820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaamyaab (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2VeikFx112olsivPPzA8D3cTUL.jpg" group-title="Other",Kaamyaab (2020)
+http://watchindia.net:8880/movie/79527/25638/1989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Alvida Naa Kehna (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkYQgRPuik4FGIUdGGVYGQJWrHa.jpg" group-title="Other",Kabhi Alvida Naa Kehna (2006)
+http://watchindia.net:8880/movie/79527/25638/1395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Alvida Naa Kehna (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkYQgRPuik4FGIUdGGVYGQJWrHa.jpg" group-title="Other",Kabhi Alvida Naa Kehna (2006)
+http://watchindia.net:8880/movie/79527/25638/1785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Haan Kabhi Naa (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FtBaFCz3UFFhXyE4JHxQDn43gM.jpg" group-title="Other",Kabhi Haan Kabhi Naa (1994)
+http://watchindia.net:8880/movie/79527/25638/1397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Kabhie (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAHg6dd2SOkrZ84Wy060agCIAZD.jpg" group-title="Other",Kabhi Kabhie (1976)
+http://watchindia.net:8880/movie/79527/25638/1834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Khushi Kabhie Gham (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioW5i4R4FEm3QT9yd0aBxJDJi6T.jpg" group-title="Other",Kabhi Khushi Kabhie Gham (2001)
+http://watchindia.net:8880/movie/79527/25638/1401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Khushi Kabhie Gham (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioW5i4R4FEm3QT9yd0aBxJDJi6T.jpg" group-title="Other",Kabhi Khushi Kabhie Gham (2001)
+http://watchindia.net:8880/movie/79527/25638/1878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kadakh (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opaWOhxmwWsmvlm86aYmbz3uOVN.jpg" group-title="Other",Kadakh (2020)
+http://watchindia.net:8880/movie/79527/25638/2071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kal Ho Naa Ho (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg" group-title="Other",Kal Ho Naa Ho (2003)
+http://watchindia.net:8880/movie/79527/25638/1415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kandahar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4sUgqAEElZo8j022M25Ovc9LxN.jpg" group-title="Other",Kandahar (2010)
+http://watchindia.net:8880/movie/79527/25638/1867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karan Arjun (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg" group-title="Other",Karan Arjun (1995)
+http://watchindia.net:8880/movie/79527/25638/1434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Khakee (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMsqwWFl51t8jXR0tWzjEuO8H4l.jpg" group-title="Other",Khakee (2004)
+http://watchindia.net:8880/movie/79527/25638/1858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Khoon Pasina (1977)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVmZTEwYjktOTM5NS00NTE5LWE0YjgtODYwYTNjZTg3MDc4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX716_AL_.jpg" group-title="Other",Khoon Pasina (1977)
+http://watchindia.net:8880/movie/79527/25638/1876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="King Uncle (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJAg9UonrhG4yoJTSo70dF99Qp6.jpg" group-title="Other",King Uncle (1993)
+http://watchindia.net:8880/movie/79527/25638/1411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kisi Ka Bhai... Kisi Ki Jaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ2JqgfWniQLnXPM5WkM7f1rqaY.jpg" group-title="Other",Kisi Ka Bhai... Kisi Ki Jaan (2023)
+http://watchindia.net:8880/movie/79527/25638/2576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Koyla (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rP12AzvscPo6WfKdrkw1Nfv2KrK.jpg" group-title="Other",Koyla (1997)
+http://watchindia.net:8880/movie/79527/25638/1430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kuch Kuch Hota Hai (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8B5UfMJzy3xff9gcs1w08iUex4.jpg" group-title="Other",Kuch Kuch Hota Hai (1998)
+http://watchindia.net:8880/movie/79527/25638/1409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kurup Hindi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz1BvJDJpjbtJoIgMsmY8HMPGvp.jpg" group-title="Other",Kurup Hindi (2021)
+http://watchindia.net:8880/movie/79527/25638/2274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kyun...! Ho Gaya Na (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKJZqL53LhyTB5vuBj8dQ3JW9Wh.jpg" group-title="Other",Kyun...! Ho Gaya Na (2004)
+http://watchindia.net:8880/movie/79527/25638/1818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lakshya (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctB8RWoK2LHn5skqN4eUWVSvpyM.jpg" group-title="Other",Lakshya (2004)
+http://watchindia.net:8880/movie/79527/25638/1870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Live (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Bmn1ZyjZWIiUBblUFLfYoSrYSe.jpg" group-title="Other",Live (2023)
+http://watchindia.net:8880/movie/79527/25638/2503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lootcase (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwqi8UtH2Xtj1bPhMZV0Ne9RctG.jpg" group-title="Other",Lootcase (2020)
+http://watchindia.net:8880/movie/79527/25638/2111.avi
+#EXTINF:-1 tvg-id="" tvg-name="Love Aaj Kal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntjCPc4ndgjglrjP7kfrWFBsm04.jpg" group-title="Other",Love Aaj Kal (2020)
+http://watchindia.net:8880/movie/79527/25638/1979.mkv
+#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Other",MTV Beats HD
+http://watchindia.net:8880/live/79527/25638/786.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV India HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="Other",MTV India HD
+http://watchindia.net:8880/live/79527/25638/825.ts
+#EXTINF:-1 tvg-id="" tvg-name="Main Hoon Na (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxD4iEZaR0PUCj03bfyWRndSfW6.jpg" group-title="Other",Main Hoon Na (2004)
+http://watchindia.net:8880/movie/79527/25638/1388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Major Saab (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mS6zYGLA8ObDDRtP5HuI91QWc9.jpg" group-title="Other",Major Saab (1998)
+http://watchindia.net:8880/movie/79527/25638/1815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malang (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2COzaii4BnT1O6bbXfAxtoTmADm.jpg" group-title="Other",Malang (2020)
+http://watchindia.net:8880/movie/79527/25638/1976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maska (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdvyG4W3RHbvmqRDyyEVqL7De73.jpg" group-title="Other",Maska (2020)
+http://watchindia.net:8880/movie/79527/25638/1983.mkv
+#EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Other",Mastiii
+http://watchindia.net:8880/live/79527/25638/826.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maya Memsaab (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXSQX6I3MSX0U8Y5WRaODCpwKBn.jpg" group-title="Other",Maya Memsaab (1993)
+http://watchindia.net:8880/movie/79527/25638/1441.mkv
+#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="Mazhavil Manorama HD (1)" tvg-logo="https://watchindia.net/images/channels/malayalam/Mazhavil_Manorama_HD.png" group-title="Other",Mazhavil Manorama HD (1)
+http://watchindia.net:8880/live/79527/25638/280.ts
+#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="Mazhavil Manorama HD (2)" tvg-logo="https://watchindia.net/images/channels/malayalam/Mazhavil_Manorama_HD.png" group-title="Other",Mazhavil Manorama HD (2)
+http://watchindia.net:8880/live/79527/25638/2231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mili (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJbqIUhScnwaFuUDcz01Z2pB0z4.jpg" group-title="Other",Mili (1975)
+http://watchindia.net:8880/movie/79527/25638/1842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohabbatein (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB7zJQgk4pPoxsPzZP0CqUgHuXN.jpg" group-title="Other",Mohabbatein (2000)
+http://watchindia.net:8880/movie/79527/25638/1419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohabbatein (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB7zJQgk4pPoxsPzZP0CqUgHuXN.jpg" group-title="Other",Mohabbatein (2000)
+http://watchindia.net:8880/movie/79527/25638/1836.mkv
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="Other",Movies Now HD
+http://watchindia.net:8880/live/79527/25638/2102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Natwarlal (1979)" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RmZGI5NzEtNjNmMi00MTA5LWI2ZDgtNzhjNGUyODNjOWJlXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_.jpg" group-title="Other",Mr. Natwarlal (1979)
+http://watchindia.net:8880/movie/79527/25638/1799.mkv
+#EXTINF:-1 tvg-id="musicindia.in" tvg-name="Music India" tvg-logo="https://watchindia.net/images/channels/hindi/Music_India.png" group-title="Other",Music India
+http://watchindia.net:8880/live/79527/25638/2293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music School (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6wD5v2UFbwzmxQZnbhERlD0yxK.jpg" group-title="Other",Music School (2023)
+http://watchindia.net:8880/movie/79527/25638/2570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Name Is Khan (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi2qMZTMjIpTJ9TzjMA7yR6nkX5.jpg" group-title="Other",My Name Is Khan (2010)
+http://watchindia.net:8880/movie/79527/25638/1438.mkv
+#EXTINF:-1 tvg-id="ndtv24x7.in" tvg-name="NDTV News" tvg-logo="https://watchindia.net/images/channels/hindi/NDTV_News.png" group-title="Other",NDTV News
+http://watchindia.net:8880/live/79527/25638/831.ts
+#EXTINF:-1 tvg-id="ndtvprofit-prime.in" tvg-name="NDTV Profit" tvg-logo="https://watchindia.net/images/channels/hindi/NDTV_Profit.png" group-title="Other",NDTV Profit
+http://watchindia.net:8880/live/79527/25638/837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Namak Halaal (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPaT9BUc8RiBVdZ05VLTDuwdr56.jpg" group-title="Other",Namak Halaal (1982)
+http://watchindia.net:8880/movie/79527/25638/1853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Namak Haraam (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvRz9X8wYjG5toeTgsxGRFBL6mz.jpg" group-title="Other",Namak Haraam (1973)
+http://watchindia.net:8880/movie/79527/25638/1787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naseeb (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uVEG53XUYF3W94ChqpeOuXYc1k.jpg" group-title="Other",Naseeb (1981)
+http://watchindia.net:8880/movie/79527/25638/1781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nastik (1983)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTdhYWUwYmEtM2U0MC00YjE3LTg0MTYtNjAwM2QxZGRkYWVkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX708_AL_.jpg" group-title="Other",Nastik (1983)
+http://watchindia.net:8880/movie/79527/25638/1843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neeyat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHLEle6lz50GH97D7bAcingUlxG.jpg" group-title="Other",Neeyat (2023)
+http://watchindia.net:8880/movie/79527/25638/2569.mkv
+#EXTINF:-1 tvg-id="newsnation.in" tvg-name="News Nation" tvg-logo="https://watchindia.net/images/channels/hindi/News_Nation.png" group-title="Other",News Nation
+http://watchindia.net:8880/live/79527/25638/838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nishabd (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wi8TJkpD52h5ZUIgnDQ2Ts7hoxO.jpg" group-title="Other",Nishabd (2007)
+http://watchindia.net:8880/movie/79527/25638/1804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Om Bheem Bush (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1dtomYuwo0vkeXyu6GY1OSxO7L.jpg" group-title="Other",Om Bheem Bush (2024)
+http://watchindia.net:8880/movie/79527/25638/2722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Om Shanti Om (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSaZOdHDBx4wxMa3E5ztkhPVYyO.jpg" group-title="Other",Om Shanti Om (2007)
+http://watchindia.net:8880/movie/79527/25638/1402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One 2 Ka 4 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmb5ixdGcEVHfItcOQ8jxCxid4c.jpg" group-title="Other",One 2 Ka 4 (2001)
+http://watchindia.net:8880/movie/79527/25638/1408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Friday Night (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edHRoFYs4Qg80MfOM6DrCzK0KVp.jpg" group-title="Other",One Friday Night (2023)
+http://watchindia.net:8880/movie/79527/25638/2572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap8NRozS7wlWCMmsd3RIDP1xzGP.jpg" group-title="Other",Panga (2020)
+http://watchindia.net:8880/movie/79527/25638/1984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pardes (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUiM7V2hK540SN9Wd6UXZPGcDBH.jpg" group-title="Other",Pardes (1997)
+http://watchindia.net:8880/movie/79527/25638/1420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parvarish (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozv4eehq6KkkfzKw6ScwitJqW9C.jpg" group-title="Other",Parvarish (1977)
+http://watchindia.net:8880/movie/79527/25638/1795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phir Bhi Dil Hai Hindustani (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ubFkUkzu44BWGDqpg7R13isUrq.jpg" group-title="Other",Phir Bhi Dil Hai Hindustani (2000)
+http://watchindia.net:8880/movie/79527/25638/1431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Piku (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo7EZWiLpLGhqs3YnlDGDBPjfTb.jpg" group-title="Other",Piku (2015)
+http://watchindia.net:8880/movie/79527/25638/1868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pink (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg" group-title="Other",Pink (2016)
+http://watchindia.net:8880/movie/79527/25638/1882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ra.One (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br4Hw32JuTfoAZXDTRS3iwQBtm3.jpg" group-title="Other",Ra.One (2011)
+http://watchindia.net:8880/movie/79527/25638/1435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raat Akeli Hai (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e533iBmwHewIM9Nq8uJI65hf6AH.jpg" group-title="Other",Raat Akeli Hai (2020)
+http://watchindia.net:8880/movie/79527/25638/2110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rab Ne Bana Di Jodi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg" group-title="Other",Rab Ne Bana Di Jodi (2008)
+http://watchindia.net:8880/movie/79527/25638/1425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raees (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFYFUfnoXWxeA3n7v4acEqgk2iE.jpg" group-title="Other",Raees (2017)
+http://watchindia.net:8880/movie/79527/25638/1387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ram Jaane (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xBLu6PZK6XeyUdRGlHOkONALlr.jpg" group-title="Other",Ram Jaane (1995)
+http://watchindia.net:8880/movie/79527/25638/1405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rann (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdZEasnuUu1jw3LPPBxvgCwFOvc.jpg" group-title="Other",Rann (2010)
+http://watchindia.net:8880/movie/79527/25638/1778.mkv
+#EXTINF:-1 tvg-id="rbharat.in" tvg-name="Republic Bharat" tvg-logo="https://watchindia.net/images/channels/hindi/Republic_Bharat.png" group-title="Other",Republic Bharat
+http://watchindia.net:8880/live/79527/25638/817.ts
+#EXTINF:-1 tvg-id="republictv.in" tvg-name="Republic TV News" tvg-logo="https://watchindia.net/images/channels/hindi/Republic_TV_News.png" group-title="Other",Republic TV News
+http://watchindia.net:8880/live/79527/25638/815.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Aur Rani Kii Prem Kahaani (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg" group-title="Other",Rocky Aur Rani Kii Prem Kahaani (2023)
+http://watchindia.net:8880/movie/79527/25638/2542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saat Hindustani (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMYd8Gt0pqv8l8JkndDubItyMn.jpg" group-title="Other",Saat Hindustani (1969)
+http://watchindia.net:8880/movie/79527/25638/1873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sab Kushal Mangal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMC6FqninqV8M7dJKIeM4Qwm6Gy.jpg" group-title="Other",Sab Kushal Mangal (2020)
+http://watchindia.net:8880/movie/79527/25638/2208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sanak (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg1Zd1HsK2YCZ5NFvWOiMocitos.jpg" group-title="Other",Sanak (2021)
+http://watchindia.net:8880/movie/79527/25638/2311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sanjog (1971)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI1ZjI2ZWMtMDBlMy00ZDRkLTk3YWEtYTg2YjhiOTNjOThhXkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_.jpg" group-title="Other",Sanjog (1971)
+http://watchindia.net:8880/movie/79527/25638/1779.mkv
+#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="Sanskar TV" tvg-logo="https://watchindia.net/images/channels/hindi/Sanskar_TV.png" group-title="Other",Sanskar TV
+http://watchindia.net:8880/live/79527/25638/2151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sardar Udham (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4fpJXhUNukd5XnzRO1XfWf7v88.jpg" group-title="Other",Sardar Udham (2021)
+http://watchindia.net:8880/movie/79527/25638/2276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarkar 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7X5NFoKk1Q6aprEnz60Yb3oVNz.jpg" group-title="Other",Sarkar 3 (2017)
+http://watchindia.net:8880/movie/79527/25638/1798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarkar Raj (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ptl9Dq51jXpUNotg6CwHWZxoaK.jpg" group-title="Other",Sarkar Raj (2008)
+http://watchindia.net:8880/movie/79527/25638/1857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Satte Pe Satta (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2vSC72WeVuXmULl8sfveQs0UMN.jpg" group-title="Other",Satte Pe Satta (1982)
+http://watchindia.net:8880/movie/79527/25638/1864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Satyagraha (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJQh5a8KsnwajTqGzd4gt2akmQO.jpg" group-title="Other",Satyagraha (2013)
+http://watchindia.net:8880/movie/79527/25638/1861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaan (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv674893Y0abolY1v7g9tmgoEke.jpg" group-title="Other",Shaan (1980)
+http://watchindia.net:8880/movie/79527/25638/1792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shakti: The Power (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Eh9UB74R9q1Oa8zOqTlCJILZqN.jpg" group-title="Other",Shakti: The Power (2002)
+http://watchindia.net:8880/movie/79527/25638/1433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shakuntala Devi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KBmoMHfdrjednxWAvkh7ARhrRJ.jpg" group-title="Other",Shakuntala Devi (2020)
+http://watchindia.net:8880/movie/79527/25638/2109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shamitabh (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIrlNyzGTxSW4B4yKtbXdflcXbz.jpg" group-title="Other",Shamitabh (2015)
+http://watchindia.net:8880/movie/79527/25638/1776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shikara (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456xw4pG7sxyCS8gPgYXEKuVkDg.jpg" group-title="Other",Shikara (2020)
+http://watchindia.net:8880/movie/79527/25638/2074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiv Shastri Balboa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BQ08rSNniscpTEl2VAQNNAY6LC.jpg" group-title="Other",Shiv Shastri Balboa (2023)
+http://watchindia.net:8880/movie/79527/25638/2546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sholay (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfXw3LGbywC4jxpHZ46sMnkh7nl.jpg" group-title="Other",Sholay (1975)
+http://watchindia.net:8880/movie/79527/25638/1872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shootout at Lokhandwala (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6p8ddG6t8FzJTFNYODG27Er0Pdn.jpg" group-title="Other",Shootout at Lokhandwala (2007)
+http://watchindia.net:8880/movie/79527/25638/1863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shubh Mangal Zyada Saavdhan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il9y4odx9el9Imwz6VMQrz9BcNz.jpg" group-title="Other",Shubh Mangal Zyada Saavdhan (2020)
+http://watchindia.net:8880/movie/79527/25638/1974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silsila (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uzX38mxGZBBEdbxB4yxEw2vFvF.jpg" group-title="Other",Silsila (1981)
+http://watchindia.net:8880/movie/79527/25638/1837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sky Force (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg" group-title="Other",Sky Force (2025)
+http://watchindia.net:8880/movie/79527/25638/2721.mkv
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="Sony BBC Earth HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_BBC_Earth_HD.png" group-title="Other",Sony BBC Earth HD
+http://watchindia.net:8880/live/79527/25638/789.ts
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Other",Sony Pix HD
+http://watchindia.net:8880/live/79527/25638/2101.ts
+#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="Sony Yay" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="Other",Sony Yay
+http://watchindia.net:8880/live/79527/25638/2104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Squad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taDdCIxgCMRCi2PBYuuWozoi6D2.jpg" group-title="Other",Squad (2021)
+http://watchindia.net:8880/movie/79527/25638/2275.mkv
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha HD" tvg-logo="https://watchindia.net/images/channels/bengali/Star_Jalsha_HD.png" group-title="Other",Star Jalsha HD
+http://watchindia.net:8880/live/79527/25638/2281.ts
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Other",Star Maa HD
+http://watchindia.net:8880/live/79527/25638/933.ts
+#EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="Other",Star Maa Movies HD
+http://watchindia.net:8880/live/79527/25638/934.ts
+#EXTINF:-1 tvg-id="starpravahhd.in" tvg-name="Star Pravah HD" tvg-logo="https://watchindia.net/images/channels/marathi/Star_Pravah_HD.png" group-title="Other",Star Pravah HD
+http://watchindia.net:8880/live/79527/25638/918.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Other",Star Vijay HD
+http://watchindia.net:8880/live/79527/25638/846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Street Dancer 3D (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sY80cuvKIfE6xtQOrSVd644yPTK.jpg" group-title="Other",Street Dancer 3D (2020)
+http://watchindia.net:8880/movie/79527/25638/1982.avi
+#EXTINF:-1 tvg-id="" tvg-name="Suhaag (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWb4Ul73ogZh0blIN9JycXqgllK.jpg" group-title="Other",Suhaag (1979)
+http://watchindia.net:8880/movie/79527/25638/1802.mkv
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Other",Sun Music HD
+http://watchindia.net:8880/live/79527/25638/844.ts
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Other",Sun TV HD
+http://watchindia.net:8880/live/79527/25638/843.ts
+#EXTINF:-1 tvg-id="suryatv.in" tvg-name="Surya TV HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png" group-title="Other",Surya TV HD
+http://watchindia.net:8880/live/79527/25638/279.ts
+#EXTINF:-1 tvg-id="starsuvarnahd.in" tvg-name="Suvarna HD" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_HD.png" group-title="Other",Suvarna HD
+http://watchindia.net:8880/live/79527/25638/985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swades (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUSL24kpHc9Nls4Pohia4shgcIM.jpg" group-title="Other",Swades (2004)
+http://watchindia.net:8880/movie/79527/25638/1393.mkv
+#EXTINF:-1 tvg-id="tlc.in" tvg-name="TLC Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/TLC.png" group-title="Other",TLC Hindi
+http://watchindia.net:8880/live/79527/25638/840.ts
+#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9 News" tvg-logo="https://watchindia.net/images/channels/hindi/TV9_News.png" group-title="Other",TV9 News
+http://watchindia.net:8880/live/79527/25638/834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tanhaji: The Unsung Warrior (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vO0gmWUmLAnVUtVbuWEScIWEAy.jpg" group-title="Other",Tanhaji: The Unsung Warrior (2020)
+http://watchindia.net:8880/movie/79527/25638/1985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Te3n (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSkghZtZygWBTmv6DQVKcn69mUZ.jpg" group-title="Other",Te3n (2016)
+http://watchindia.net:8880/movie/79527/25638/1848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teen Patti (2010)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRjN2M2MmQtZTFhNi00Zjk5LWI2MzEtYWFiMDI4NWIyNGJkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Other",Teen Patti (2010)
+http://watchindia.net:8880/movie/79527/25638/1816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thappad (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSOgDTClgfbIOBgv4Itf3GSEkWA.jpg" group-title="Other",Thappad (2020)
+http://watchindia.net:8880/movie/79527/25638/1975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Lear (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XAEITrS4DpfznbnpRukoTgxT5E.jpg" group-title="Other",The Last Lear (2008)
+http://watchindia.net:8880/movie/79527/25638/1855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Sabarmati Report (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahOWjoqGkpxpmJVPmEBkSyvLPfi.jpg" group-title="Other",The Sabarmati Report (2024)
+http://watchindia.net:8880/movie/79527/25638/2724.mkv
+#EXTINF:-1 tvg-id="timesnow.in" tvg-name="Times Now" tvg-logo="https://watchindia.net/images/channels/hindi/Times_Now.png" group-title="Other",Times Now
+http://watchindia.net:8880/live/79527/25638/839.ts
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="TravelXP HD" tvg-logo="https://watchindia.net/images/channels/hindi/TravelXP_HD.png" group-title="Other",TravelXP HD
+http://watchindia.net:8880/live/79527/25638/792.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trimurti (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6Pmeu0tcw3YKNHLdYw7IrNNdNq.jpg" group-title="Other",Trimurti (1995)
+http://watchindia.net:8880/movie/79527/25638/1414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trishul (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9fW3gseY2i1vWn7WHk28JbMYHz.jpg" group-title="Other",Trishul (1978)
+http://watchindia.net:8880/movie/79527/25638/1881.mkv
+#EXTINF:-1 tvg-id="udayahd.in" tvg-name="Udaya HD" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_HD.png" group-title="Other",Udaya HD
+http://watchindia.net:8880/live/79527/25638/1002.ts
+#EXTINF:-1 tvg-id="" tvg-name="Veer-Zaara (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rc8qXMjMcemhVFjKP2JWCS1Wpz.jpg" group-title="Other",Veer-Zaara (2004)
+http://watchindia.net:8880/movie/79527/25638/1386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Bhanupriya (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xujced26SmDLU7B3ELXr6lgiiPA.jpg" group-title="Other",Virgin Bhanupriya (2020)
+http://watchindia.net:8880/movie/79527/25638/2112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virudh (2005)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM1ODg4NjMtMmU1OC00OTcyLWI3YmUtNDIwMTI2OGU1NDI5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Other",Virudh (2005)
+http://watchindia.net:8880/movie/79527/25638/1807.mkv
+#EXTINF:-1 tvg-id="wion.in" tvg-name="WION News" tvg-logo="https://watchindia.net/images/channels/hindi/Wion_News.png" group-title="Other",WION News
+http://watchindia.net:8880/live/79527/25638/816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wazir (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5I6rAFG3rLborOF8BCcjs4EBcx.jpg" group-title="Other",Wazir (2016)
+http://watchindia.net:8880/movie/79527/25638/1805.mp4
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="Other",Willow HD (1)
+http://watchindia.net:8880/live/79527/25638/1067.ts
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="Other",Willow HD (2)
+http://watchindia.net:8880/live/79527/25638/2145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yaara (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRnJ6rDEWSoWWAZMpGeILLjc1G6.jpg" group-title="Other",Yaara (2020)
+http://watchindia.net:8880/movie/79527/25638/2108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yahan Sabhi Gyani Hain (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVXAZw741pCDhN0es4ovFo0n2rQ.jpg" group-title="Other",Yahan Sabhi Gyani Hain (2020)
+http://watchindia.net:8880/movie/79527/25638/2073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yeh Saali Aashiqui (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z83KrUMwgXPZM442lhl0Mth0pPk.jpg" group-title="Other",Yeh Saali Aashiqui (2019)
+http://watchindia.net:8880/movie/79527/25638/1977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yes Boss (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayp76lRwyp5izlZVnxcZscgHofH.jpg" group-title="Other",Yes Boss (1997)
+http://watchindia.net:8880/movie/79527/25638/1423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zamaana Deewana (1995)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAxOTcwNzgzNzheQTJeQWpwZ15BbWU3MDMzNzg4MzE@._V1_.jpg" group-title="Other",Zamaana Deewana (1995)
+http://watchindia.net:8880/movie/79527/25638/1444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zameer (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mazm9iTC4i2idkjBW3XUBYDZs0p.jpg" group-title="Other",Zameer (1975)
+http://watchindia.net:8880/movie/79527/25638/1839.mkv
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla HD" tvg-logo="https://watchindia.net/images/channels/bengali/Zee_Bangla_HD.png" group-title="Other",Zee Bangla HD
+http://watchindia.net:8880/live/79527/25638/2283.ts
+#EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="Zee HD Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_HD.png" group-title="Other",Zee HD Marathi
+http://watchindia.net:8880/live/79527/25638/913.ts
+#EXTINF:-1 tvg-id="zeekannada.in" tvg-name="Zee Kannada HD" tvg-logo="https://watchindia.net/images/channels/kannada/Zee_TV.png" group-title="Other",Zee Kannada HD
+http://watchindia.net:8880/live/79527/25638/1001.ts
+#EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="Zee Keralam HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Zee_Keralam_HD.png" group-title="Other",Zee Keralam HD
+http://watchindia.net:8880/live/79527/25638/287.ts
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_News.png" group-title="Other",Zee News
+http://watchindia.net:8880/live/79527/25638/832.ts
+#EXTINF:-1 tvg-id="zeetalkieshd.in" tvg-name="Zee Talkies HD" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_Talkies_HD.png" group-title="Other",Zee Talkies HD
+http://watchindia.net:8880/live/79527/25638/914.ts
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Zee Telugu HD" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="Other",Zee Telugu HD
+http://watchindia.net:8880/live/79527/25638/940.ts
+#EXTINF:-1 tvg-id="zee.zest.in" tvg-name="Zee Zest HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="Other",Zee Zest HD
+http://watchindia.net:8880/live/79527/25638/2359.ts
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom" tvg-logo="https://watchindia.net/images/channels/hindi/Zoom.png" group-title="Other",Zoom
+http://watchindia.net:8880/live/79527/25638/842.ts
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS Sports Network" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="Sports",CBS Sports Network
+http://watchindia.net:8880/live/79527/25638/2121.ts
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="Sports",DD Sports
+http://watchindia.net:8880/live/79527/25638/2380.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="Sports",Fox Sports 1
+http://watchindia.net:8880/live/79527/25638/2421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kala Viplavam Pranayam (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYQhWAFHmfIj4Kg7DZhaSg40Tp8.jpg" group-title="Sports",Kala Viplavam Pranayam (2018)
+http://watchindia.net:8880/movie/79527/25638/2022.mkv
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="NBC Sports Network" tvg-logo="https://watchindia.net/images/channels/usa/NBC_Sports.png" group-title="Sports",NBC Sports Network
+http://watchindia.net:8880/live/79527/25638/2266.ts
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports +" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Plus.png" group-title="Sports",Sky Sports +
+http://watchindia.net:8880/live/79527/25638/2095.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="Sports",Sky Sports Cricket
+http://watchindia.net:8880/live/79527/25638/2090.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" group-title="Sports",Sky Sports F1
+http://watchindia.net:8880/live/79527/25638/2094.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" group-title="Sports",Sky Sports Golf
+http://watchindia.net:8880/live/79527/25638/2096.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" group-title="Sports",Sky Sports Main Event
+http://watchindia.net:8880/live/79527/25638/2091.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="Sports",Sky Sports Premier League
+http://watchindia.net:8880/live/79527/25638/2092.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD (1)
+http://watchindia.net:8880/live/79527/25638/1756.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD (2)
+http://watchindia.net:8880/live/79527/25638/2215.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD
+http://watchindia.net:8880/live/79527/25638/1757.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="Sports",Sony Ten 3 HD
+http://watchindia.net:8880/live/79527/25638/1758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_4_HD.png" group-title="Sports",Sony Ten 4 HD
+http://watchindia.net:8880/live/79527/25638/2662.ts
+#EXTINF:-1 tvg-id="sony.sports.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="Sports",Sony Ten 5 HD
+http://watchindia.net:8880/live/79527/25638/2663.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 1 HD
+http://watchindia.net:8880/live/79527/25638/2423.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (1)
+http://watchindia.net:8880/live/79527/25638/2232.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (2)
+http://watchindia.net:8880/live/79527/25638/2456.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (3)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (3)
+http://watchindia.net:8880/live/79527/25638/2678.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 HD (Hindi)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD_Hindi.png" group-title="Sports",Star Sports 1 HD (Hindi)
+http://watchindia.net:8880/live/79527/25638/2673.ts
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD (1)
+http://watchindia.net:8880/live/79527/25638/1069.ts
+#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD (2)
+http://watchindia.net:8880/live/79527/25638/2163.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD
+http://watchindia.net:8880/live/79527/25638/1070.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Sports",Star Sports Select 2 HD
+http://watchindia.net:8880/live/79527/25638/1071.ts
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://watchindia.net/images/channels/sports/TNT_Sports_1.png" group-title="Sports",TNT Sports 1
+http://watchindia.net:8880/live/79527/25638/2657.ts
