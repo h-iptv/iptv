@@ -29,7 +29,7 @@ http://watchindia.net:8880/live/79527/25638/782.ts
 http://watchindia.net:8880/live/79527/25638/813.ts
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Hindi",Zee Anmol Cinema
 http://watchindia.net:8880/live/79527/25638/820.ts
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Hindi",Zee TV HD
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Zee_TV_2025.svg" group-title="Hindi",Zee TV HD
 http://watchindia.net:8880/live/79527/25638/1970.ts
 
 # --- Movies ---
