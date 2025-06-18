@@ -109,7 +109,7 @@ http://watchindia.net:8880/live/79527/25638/802.ts
 http://watchindia.net:8880/live/79527/25638/2024.ts
 #EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Wah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="Movies",Sony Wah
 http://watchindia.net:8880/live/79527/25638/814.ts
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Entertainment",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema
 http://watchindia.net:8880/live/79527/25638/820.ts
 
 # --- Kids ---
