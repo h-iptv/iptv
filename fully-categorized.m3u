@@ -64,11 +64,11 @@ http://watchindia.net:8880/live/41701/62215/2141.ts
 
 
 # --- Sony SAB ---
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (1)
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab SD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab SD
 https://fifabd.site/OPLLX5/play.php?id=221256&|User-Agent=RANAPK
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (2)
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (1)
 https://starshare.org:443/live/gurmeet/gurmeet/145.ts
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (3)
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (2)
 http://watchindia.net:8880/live/39920/69150/2323.ts
 http://watchindia.net:8880/live/10155/34564/2323.ts
 http://watchindia.net:8880/live/82963/72037/2323.ts
