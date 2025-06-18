@@ -123,11 +123,21 @@ https://fifabd.site/OPLLX5/play.php?id=221259&|User-Agent=RANAPK
 
 # --- Star gold ---
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Movies",Star Gold HD (1)
-http://watchindia.net:8880/live/79527/25638/785.ts
+http://watchindia.net:8880/live/39920/69150/785.ts
+http://watchindia.net:8880/live/10155/34564/785.ts
+http://watchindia.net:8880/live/82963/72037/785.ts
+http://watchindia.net:8880/live/10155/34564/785.ts
+http://watchindia.net:8880/live/41701/62215/785.ts
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Movies",Star Gold HD (2)
 https://starshare.org:443/live/gurmeet/gurmeet/194.ts
+
+# --- Star Star Gold Select ---
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD (1)
-http://watchindia.net:8880/live/79527/25638/784.ts
+http://watchindia.net:8880/live/39920/69150/784.ts
+http://watchindia.net:8880/live/10155/34564/784.ts
+http://watchindia.net:8880/live/82963/72037/784.ts
+http://watchindia.net:8880/live/10155/34564/784.ts
+http://watchindia.net:8880/live/41701/62215/784.ts
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD (2)
 https://starshare.org:443/live/gurmeet/gurmeet/210.ts
 
