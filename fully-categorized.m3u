@@ -134,15 +134,13 @@ https://fifabd.site/OPLLX9/play.php?id=150483&|User-Agent=RANAPK
 
 # --- Knowledge ---
 #EXTINF:-1 tvg-id="discovery.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="Knowledge",Discovery Channel Hindi
-http://watchindia.net:8880/live/79527/25638/841.ts
+https://fifabd.site/OPLLX9/play.php?id=206287&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Knowledge",History TV18 HD
 https://fifabd.site/OPLLX9/play.php?id=206294&|User-Agent=RANAPK
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="Knowledge",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="Knowledge",Animal Planet
 http://watchindia.net:8880/live/79527/25638/2039.ts
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" group-title="Knowledge",Discovery Channel
-http://watchindia.net:8880/live/79527/25638/2036.ts
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="Knowledge",National Geographic
-http://watchindia.net:8880/live/79527/25638/2037.ts
+#EXTINF:-1 tvg-id="natgeo.in" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="Knowledge",National Geographic
+https://fifabd.site/OPLLX9/play.php?id=206285&|User-Agent=RANAPK
 
 # --- Sports ---
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (1)
@@ -174,3 +172,18 @@ http://watchindia.net:8880/live/79527/25638/2662.ts
 #EXTINF:-1 tvg-id="sony.sports.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="Sports",Sony Ten 5 HD
 http://watchindia.net:8880/live/79527/25638/2663.ts
 
+# --- 24x7 Entertainment ---
+#EXTINF:-1 tvg-id="" tvg-name="CID 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24x7 Entertainment",CID | 24X7 CH01
+https://fifabd.site/OPLLX9/play.php?id=340808&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="CID 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24X7 Entertainment",CID | 24X7 CH02
+https://fifabd.site/OPLLX9/play.php?id=340873&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24X7 Entertainment",CID | 24X7 CH03
+https://fifabd.site/OPLLX9/play.php?id=378909&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL SHATRAK 24X7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="24X7 Entertainment",CRIME PATROL SHATRAK 24X7
+https://fifabd.site/OPLLX9/play.php?id=340874&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL DIAL100 24X7"  tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="24X7 Entertainment",CRIME PATROL DIAL100 24X7
+https://fifabd.site/OPLLX9/play.php?id=340875&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL 2.0 24X7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="24X7 Entertainment",CRIME PATROL 2.0 24X7
+https://fifabd.site/OPLLX9/play.php?id=340876&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="THE KAPIL SHARMA SHOW 24X7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="24X7 Entertainment" ,THE KAPIL SHARMA SHOW 24X7
+https://fifabd.site/OPLLX9/play.php?id=342075&|User-Agent=RANAPK
