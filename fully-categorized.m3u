@@ -4,61 +4,102 @@
 
 # --- Star Plus ---
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (1)
-https://fifabd.site/OPLLX9/play.php?id=221252&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221252&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="ts8" tvg-name="Star Plus HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (2)
 https://starshare.org:443/live/gurmeet/gurmeet/221.ts
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (3)
-http://watchindia.net:8880/live/79527/25638/1924.ts
+http://watchindia.net:8880/live/39920/69150/1924.ts
+http://watchindia.net:8880/live/10155/34564/1924.ts
+http://watchindia.net:8880/live/82963/72037/1924.ts
+http://watchindia.net:8880/live/10155/34564/1924.ts
+http://watchindia.net:8880/live/41701/62215/1924.ts
+
 
 # --- Colors ---
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD (1)
-https://fifabd.site/OPLLX9/play.php?id=221254&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221254&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD (2)
 https://starshare.org:443/live/gurmeet/gurmeet/219.ts
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD (3)
-http://watchindia.net:8880/live/79527/25638/2264.ts
-
+http://watchindia.net:8880/live/39920/69150/801.ts
+http://watchindia.net:8880/live/10155/34564/801.ts
+http://watchindia.net:8880/live/82963/72037/801.ts
+http://watchindia.net:8880/live/10155/34564/801.ts
+http://watchindia.net:8880/live/41701/62215/801.ts
+http://watchindia.net:8880/live/39920/69150/2264.ts
+http://watchindia.net:8880/live/10155/34564/2264.ts
+http://watchindia.net:8880/live/82963/72037/2264.ts
+http://watchindia.net:8880/live/10155/34564/2264.ts
+http://watchindia.net:8880/live/41701/62215/2264.ts
 # --- Zee Tv ---
+
+
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD (1)
-https://fifabd.site/OPLLX9/play.php?id=221250&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221250&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD (2)
 https://starshare.org:443/live/gurmeet/gurmeet/161.ts
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD (3)
-http://watchindia.net:8880/live/79527/25638/1970.ts
+http://watchindia.net:8880/live/39920/69150/1970.ts
+http://watchindia.net:8880/live/10155/34564/1970.ts
+http://watchindia.net:8880/live/82963/72037/1970.ts
+http://watchindia.net:8880/live/10155/34564/1970.ts
+http://watchindia.net:8880/live/41701/62215/1970.ts
 
 # --- Sont SET ---
 #EXTINF:-1 tvg-id="setindia.com" tvg-name="Sony TV (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV HD (1)
-https://fifabd.site/OPLLX9/play.php?id=221251&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221251&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV HD (2)
 https://starshare.org:443/live/gurmeet/gurmeet/144.ts
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV HD (3)
-http://watchindia.net:8880/live/79527/25638/2141.ts
+http://watchindia.net:8880/live/39920/69150/1969.ts
+http://watchindia.net:8880/live/10155/34564/1969.ts
+http://watchindia.net:8880/live/82963/72037/1969.ts
+http://watchindia.net:8880/live/10155/34564/1969.ts
+http://watchindia.net:8880/live/41701/62215/1969.ts
+http://watchindia.net:8880/live/39920/69150/2141.ts
+http://watchindia.net:8880/live/10155/34564/2141.ts
+http://watchindia.net:8880/live/82963/72037/2141.ts
+http://watchindia.net:8880/live/10155/34564/2141.ts
+http://watchindia.net:8880/live/41701/62215/2141.ts
+
 
 # --- Sony SAB ---
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (1)
-https://fifabd.site/OPLLX9/play.php?id=221256&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221256&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (2)
 https://starshare.org:443/live/gurmeet/gurmeet/145.ts
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (3)
-https://fifabd.site/OPLLX9/play.php?id=66174&|User-Agent=RANAPK
+http://watchindia.net:8880/live/39920/69150/2323.ts
+http://watchindia.net:8880/live/10155/34564/2323.ts
+http://watchindia.net:8880/live/82963/72037/2323.ts
+http://watchindia.net:8880/live/10155/34564/2323.ts
+http://watchindia.net:8880/live/41701/62215/2323.ts
 
 # --- Sony PAL ---
 #EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="Entertainment",Sony Pal (1)
-https://fifabd.site/OPLLX9/play.php?id=104192&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=104192&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="Entertainment",Sony Pal (2)
-http://watchindia.net:8880/live/79527/25638/812.ts
+http://watchindia.net:8880/live/39920/69150/812.ts
+http://watchindia.net:8880/live/10155/34564/812.ts
+http://watchindia.net:8880/live/82963/72037/812.ts
+http://watchindia.net:8880/live/10155/34564/812.ts
+http://watchindia.net:8880/live/41701/62215/812.ts
 
 # --- Star Bharat ---
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD (1)
-https://fifabd.site/OPLLX9/play.php?id=221255&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221255&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD (2)
 http://watchindia.net:8880/live/79527/25638/780.ts
 
 # --- & TV ---
 #EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="Entertainment",& TV HD (1)
-https://fifabd.site/OPLLX9/play.php?id=221253&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221253&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="Entertainment",& TV HD (2)
-http://watchindia.net:8880/live/79527/25638/782.ts
+http://watchindia.net:8880/live/39920/69150/782.ts
+http://watchindia.net:8880/live/10155/34564/782.ts
+http://watchindia.net:8880/live/82963/72037/782.ts
+http://watchindia.net:8880/live/10155/34564/782.ts
+http://watchindia.net:8880/live/41701/62215/782.ts
 
 # --- Other Entertainment ---
 #EXTINF:-1 tvg-id="zanmol.in" tvg-name="Zee Anmol" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol.png" group-title="Entertainment",Zee Anmol
@@ -70,11 +111,15 @@ http://watchindia.net:8880/live/79527/25638/813.ts
 
 # --- Sony Max ---
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Movies",Sony Max HD (1)
-http://watchindia.net:8880/live/79527/25638/788.ts
+http://watchindia.net:8880/live/39920/69150/788.ts
+http://watchindia.net:8880/live/10155/34564/788.ts
+http://watchindia.net:8880/live/82963/72037/788.ts
+http://watchindia.net:8880/live/10155/34564/788.ts
+http://watchindia.net:8880/live/41701/62215/788.ts
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Movies",Sony Max HD (2)
 https://starshare.org:443/live/gurmeet/gurmeet/151.ts
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Movies",Sony Max HD (3)
-https://fifabd.site/OPLLX9/play.php?id=221259&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221259&|User-Agent=RANAPK
 
 # --- Star gold ---
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Movies",Star Gold HD (1)
@@ -90,19 +135,19 @@ https://starshare.org:443/live/gurmeet/gurmeet/210.ts
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="Movies",& Pictures HD
 http://watchindia.net:8880/live/79527/25638/783.ts
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="Movies",& Pictures HD
-https://fifabd.site/OPLLX9/play.php?id=221260&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221260&|User-Agent=RANAPK
 
 # --- Colors Cineplex ---
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="Movies",Colors Cineplex HD
 http://watchindia.net:8880/live/79527/25638/803.ts
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies",Colors Cineplex Bollywood
-https://fifabd.site/OPLLX9/play.php?id=112983&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=112983&|User-Agent=RANAPK
 
 # --- Zee Cinema ---
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD (1)
 http://watchindia.net:8880/live/79527/25638/787.ts
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD (2)
-https://fifabd.site/OPLLX9/play.php?id=221261&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=221261&|User-Agent=RANAPK
 
 # --- Other Movies ---
 #EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Movies",Zee Action
@@ -124,9 +169,9 @@ http://watchindia.net:8880/live/79527/25638/2237.ts
 #EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_Hindi.png" group-title="Kids Cartoon",Nick Hindi
 http://watchindia.net:8880/live/79527/25638/2182.ts
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network" tvg-logo="http://watchindia.net/images/channels/hindi/CN_HD+.png" group-title="Kids Cartoon",Cartoon Network
-https://fifabd.site/OPLLX9/play.php?id=153154&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=153154&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="HungamaTV.india" tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Kids Cartoon",Hungama
-https://fifabd.site/OPLLX9/play.php?id=150480&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=150480&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="Kids Cartoon",Disney Channel
 http://watchindia.net:8880/live/79527/25638/2046.ts
 #EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Jr." tvg-logo="http://watchindia.net/images/channels/usa/Nick_Jr.png" group-title="Kids Cartoon",Nick Jr.
@@ -136,17 +181,17 @@ http://watchindia.net:8880/live/79527/25638/2049.ts
 #EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://watchindia.net/images/channels/usa/Nicktoons.png" group-title="Kids Cartoon",Nicktoons
 http://watchindia.net:8880/live/79527/25638/2064.ts
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Kids Cartoon",Pogo
-https://fifabd.site/OPLLX9/play.php?id=150483&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=150483&|User-Agent=RANAPK
 
 # --- Knowledge ---
 #EXTINF:-1 tvg-id="discovery.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="Knowledge",Discovery Channel Hindi
-https://fifabd.site/OPLLX9/play.php?id=206287&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=206287&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Knowledge",History TV18 HD
 https://starshare.org:443/live/gurmeet/gurmeet/180.ts
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="Knowledge",Animal Planet
 http://watchindia.net:8880/live/79527/25638/2039.ts
 #EXTINF:-1 tvg-id="natgeo.in" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="Knowledge",National Geographic
-https://fifabd.site/OPLLX9/play.php?id=206285&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=206285&|User-Agent=RANAPK
 
 # --- Sports ---
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (1)
@@ -180,16 +225,16 @@ http://watchindia.net:8880/live/79527/25638/2663.ts
 
 # --- 24x7 Entertainment ---
 #EXTINF:-1 tvg-id="" tvg-name="CID 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24x7 Entertainment",CID | 24X7 CH01
-https://fifabd.site/OPLLX9/play.php?id=340808&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=340808&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-name="CID 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24x7 Entertainment",CID | 24X7 CH02
-https://fifabd.site/OPLLX9/play.php?id=340873&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=340873&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24x7 Entertainment",CID | 24X7 CH03
-https://fifabd.site/OPLLX9/play.php?id=378909&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=378909&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL SHATRAK 24X7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="24x7 Entertainment",CRIME PATROL SHATRAK 24X7
-https://fifabd.site/OPLLX9/play.php?id=340874&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=340874&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL DIAL100 24X7"  tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="24x7 Entertainment",CRIME PATROL DIAL100 24X7
-https://fifabd.site/OPLLX9/play.php?id=340875&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=340875&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL 2.0 24X7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="24x7 Entertainment",CRIME PATROL 2.0 24X7
-https://fifabd.site/OPLLX9/play.php?id=340876&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=340876&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-name="THE KAPIL SHARMA SHOW 24X7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="24x7 Entertainment" ,THE KAPIL SHARMA SHOW 24X7
-https://fifabd.site/OPLLX9/play.php?id=342075&|User-Agent=RANAPK
+https://fifabd.site/OPLLX5/play.php?id=342075&|User-Agent=RANAPK
