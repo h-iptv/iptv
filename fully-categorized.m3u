@@ -125,7 +125,7 @@ http://watchindia.net:8880/live/79527/25638/2237.ts
 http://watchindia.net:8880/live/79527/25638/2182.ts
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network" tvg-logo="http://watchindia.net/images/channels/hindi/CN_HD+.png" group-title="Kids Cartoon",Cartoon Network
 https://fifabd.site/OPLLX9/play.php?id=153154&|User-Agent=RANAPK
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Kids Cartoon",Hungama
+#EXTINF:-1 tvg-id="HungamaTV.india" tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Kids Cartoon",Hungama
 https://fifabd.site/OPLLX9/play.php?id=150480&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="Kids Cartoon",Disney Channel
 http://watchindia.net:8880/live/79527/25638/2046.ts
@@ -143,7 +143,7 @@ https://fifabd.site/OPLLX9/play.php?id=150483&|User-Agent=RANAPK
 https://fifabd.site/OPLLX9/play.php?id=206287&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Knowledge",History TV18 HD
 https://starshare.org:443/live/gurmeet/gurmeet/180.ts
-#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="Knowledge",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="Knowledge",Animal Planet
 http://watchindia.net:8880/live/79527/25638/2039.ts
 #EXTINF:-1 tvg-id="natgeo.in" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="Knowledge",National Geographic
 https://fifabd.site/OPLLX9/play.php?id=206285&|User-Agent=RANAPK
