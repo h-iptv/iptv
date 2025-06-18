@@ -5,8 +5,8 @@
 # --- Star Plus ---
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (1)
 https://fifabd.site/OPLLX9/play.php?id=221252&|User-Agent=RANAPK
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (2)
-https://fifabd.site/OPLLX9/play.php?id=66166&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="ts8" tvg-name="Star Plus HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (2)
+https://starshare.org:443/live/gurmeet/gurmeet/221.ts
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (3)
 http://watchindia.net:8880/live/79527/25638/1924.ts
 
