@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://watchindia.net:8880/xmltv.php?username=79527&password=25638"
 
-#EXTINF:-1 tvg-id="" tvg-name="my video" tvg-logo="https://github.com/h-iptv/TEMP/blob/main/new/WhatsApp%20Image%202025-04-23%20at%202.22.16%20PM.jpeg?raw=true" group-title="Entertainment",Intro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/h-iptv/TEMP/blob/main/new/WhatsApp%20Image%202025-04-23%20at%202.22.16%20PM.jpeg?raw=true" group-title="Entertainment",Intro
 https://github.com/h-iptv/TEMP/raw/refs/heads/main/new/IMG_5449.MOV
 
 # --- Entertainment ---
