@@ -1,119 +1,333 @@
 #EXTM3U url-tvg="http://watchindia.net:8880/xmltv.php?username=79527&password=25638"
-#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="My Entertainment",Colors TV HD (1)
-http://watchindia.net:8880/live/79527/25638/801.ts
-#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="My Entertainment",Colors TV HD (2)
-http://watchindia.net:8880/live/79527/25638/2264.ts
-#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors TV HD UK" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="My Entertainment",Colors TV HD UK
-http://watchindia.net:8880/live/79527/25638/2187.ts
-#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="My Entertainment",Sony Pal
-http://watchindia.net:8880/live/79527/25638/812.ts
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="My Entertainment",Sony Sab HD
-http://watchindia.net:8880/live/79527/25638/2323.ts
-#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="Sony Sab UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="My Entertainment",Sony Sab UK
-http://watchindia.net:8880/live/79527/25638/2189.ts
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="My Entertainment",Sony TV HD (1)
-http://watchindia.net:8880/live/79527/25638/1969.ts
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="My Entertainment",Sony TV HD (2)
-http://watchindia.net:8880/live/79527/25638/2141.ts
-#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="Sony TV UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="My Entertainment",Sony TV UK
-http://watchindia.net:8880/live/79527/25638/2117.ts
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="My Entertainment",Star Bharat HD
-http://watchindia.net:8880/live/79527/25638/780.ts
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="My Entertainment",Star Plus HD
+
+
+
+# --- Entertainment ---
+
+# --- Star Plus ---
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (1)
+http://xott.live:8080/live/zeeshanashraf/123654/221252.ts
+#EXTINF:-1 tvg-id="ts8" tvg-name="Star Plus HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (2)
+https://starshare.org:443/live/gurmeet/gurmeet/221.ts
+http://xott.live:8080/live/zeeshanashraf/123654/66208.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD (3)
 http://watchindia.net:8880/live/79527/25638/1924.ts
-#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Utsav.png" group-title="My Entertainment",Star Utsav
-http://watchindia.net:8880/live/79527/25638/2493.ts
-#EXTINF:-1 tvg-id="zanmol.in" tvg-name="Zee Anmol" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol.png" group-title="My Entertainment",Zee Anmol
+http://watchindia.net:8880/live/96203/07108/1924.ts
+
+
+
+# --- Colors ---
+
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD (1)
+https://fifabd.site/OPLLX5/play.php?id=221254&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD (2)
+https://starshare.org:443/live/gurmeet/gurmeet/219.ts
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Entertainment",Colors TV HD (3)
+http://watchindia.net:8880/live/39920/69150/801.ts
+http://watchindia.net:8880/live/10155/34564/801.ts
+http://watchindia.net:8880/live/82963/72037/801.ts
+http://watchindia.net:8880/live/10155/34564/801.ts
+http://watchindia.net:8880/live/41701/62215/801.ts
+http://watchindia.net:8880/live/39920/69150/2264.ts
+http://watchindia.net:8880/live/10155/34564/2264.ts
+http://watchindia.net:8880/live/82963/72037/2264.ts
+http://watchindia.net:8880/live/10155/34564/2264.ts
+http://watchindia.net:8880/live/41701/62215/2264.ts
+
+
+
+# --- Zee Tv ---
+
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD (1)
+https://fifabd.site/OPLLX5/play.php?id=221250&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD (2)
+https://starshare.org:443/live/gurmeet/gurmeet/161.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Entertainment",Zee TV HD (3)
+http://watchindia.net:8880/live/39920/69150/1970.ts
+http://watchindia.net:8880/live/10155/34564/1970.ts
+http://watchindia.net:8880/live/82963/72037/1970.ts
+http://watchindia.net:8880/live/10155/34564/1970.ts
+http://watchindia.net:8880/live/41701/62215/1970.ts
+
+
+
+# --- Sont SET ---
+
+#EXTINF:-1 tvg-id="setindia.com" tvg-name="Sony TV (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV HD (1)
+http://tigerott.com:8080/live/vZLVqaZqmE/uTfWGYyzU3/86026.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV HD (2)
+https://starshare.org:443/live/gurmeet/gurmeet/144.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Entertainment",Sony TV HD (3)
+http://watchindia.net:8880/live/39920/69150/1969.ts
+http://watchindia.net:8880/live/10155/34564/1969.ts
+http://watchindia.net:8880/live/82963/72037/1969.ts
+http://watchindia.net:8880/live/10155/34564/1969.ts
+http://watchindia.net:8880/live/41701/62215/1969.ts
+http://watchindia.net:8880/live/39920/69150/2141.ts
+http://watchindia.net:8880/live/10155/34564/2141.ts
+http://watchindia.net:8880/live/82963/72037/2141.ts
+http://watchindia.net:8880/live/10155/34564/2141.ts
+http://watchindia.net:8880/live/41701/62215/2141.ts
+
+
+
+# --- Sony SAB ---
+
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (1)
+https://fifabd.site/OPLLX5/play.php?id=221256&|User-Agent=RANAPK
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400232358.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (2)
+http://cool365.xyz:900/live/4160189881/DB4ACD54/191171.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Entertainment",Sony Sab HD (3)
+http://xott.live:8080/live/zeeshanashraf/123654/66174.ts
+
+
+
+# --- Sony PAL ---
+
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="Entertainment",Sony Pal (1)
+https://fifabd.site/OPLLX5/play.php?id=104192&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="Entertainment",Sony Pal (2)
+http://watchindia.net:8880/live/39920/69150/812.ts
+http://watchindia.net:8880/live/10155/34564/812.ts
+http://watchindia.net:8880/live/82963/72037/812.ts
+http://watchindia.net:8880/live/10155/34564/812.ts
+http://watchindia.net:8880/live/41701/62215/812.ts
+
+
+
+# --- Star Bharat ---
+
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD (1)
+https://fifabd.site/OPLLX5/play.php?id=221255&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD (2)
+http://watchindia.net:8880/live/79527/25638/780.ts
+
+
+
+# --- & TV ---
+
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="Entertainment",& TV HD (1)
+https://fifabd.site/OPLLX5/play.php?id=221253&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="Entertainment",& TV HD (2)
+http://watchindia.net:8880/live/39920/69150/782.ts
+http://watchindia.net:8880/live/10155/34564/782.ts
+http://watchindia.net:8880/live/82963/72037/782.ts
+http://watchindia.net:8880/live/10155/34564/782.ts
+http://watchindia.net:8880/live/41701/62215/782.ts
+
+
+
+# --- Other Entertainment ---
+#EXTINF:-1 tvg-id="zanmol.in" tvg-name="Zee Anmol" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol.png" group-title="Entertainment",Zee Anmol
 http://watchindia.net:8880/live/79527/25638/813.ts
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="My Entertainment",Zee Anmol Cinema
-http://watchindia.net:8880/live/79527/25638/820.ts
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="My Entertainment",Zee TV HD
-http://watchindia.net:8880/live/79527/25638/1970.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="http://watchindia.net/images/channels/usa/Cartoon_Network.png" group-title="My Kids Shows",Cartoon Network
-http://watchindia.net:8880/live/79527/25638/2052.ts
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network HD+" tvg-logo="http://watchindia.net/images/channels/hindi/CN_HD+.png" group-title="My Kids Shows",Cartoon Network HD+
-http://watchindia.net:8880/live/79527/25638/2718.ts
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="My Kids Shows",Disney Channel
-http://watchindia.net:8880/live/79527/25638/2046.ts
-#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="Nick HD Plus" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_HD_Plus.png" group-title="My Kids Shows",Nick HD Plus
-http://watchindia.net:8880/live/79527/25638/2237.ts
-#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_Hindi.png" group-title="My Kids Shows",Nick Hindi
-http://watchindia.net:8880/live/79527/25638/2182.ts
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Jr." tvg-logo="http://watchindia.net/images/channels/usa/Nick_Jr.png" group-title="My Kids Shows",Nick Jr.
-http://watchindia.net:8880/live/79527/25638/2059.ts
-#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Malayalam" tvg-logo="https://watchindia.net/images/channels/malayalam/Nick.png" group-title="My Kids Shows",Nick Malayalam
-http://watchindia.net:8880/live/79527/25638/2632.ts
-#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Nick_Tamil.png" group-title="My Kids Shows",Nick Tamil
-http://watchindia.net:8880/live/79527/25638/2181.ts
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="My Knowledge",Animal Planet
-http://watchindia.net:8880/live/79527/25638/2039.ts
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" group-title="My Knowledge",Discovery Channel
-http://watchindia.net:8880/live/79527/25638/2036.ts
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="My Knowledge",Discovery Channel Hindi
-http://watchindia.net:8880/live/79527/25638/841.ts
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="My Knowledge",History TV18 HD
-http://watchindia.net:8880/live/79527/25638/791.ts
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="My Knowledge",National Geographic
-http://watchindia.net:8880/live/79527/25638/2037.ts
-#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="My Movies",Colors Cineplex HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Danagl 2" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/c/c8/%E0%A4%A6%E0%A4%82%E0%A4%97%E0%A4%B2_2_%E0%A4%9F%E0%A5%80%E0%A4%B5%E0%A5%80_%E0%A4%9A%E0%A5%88%E0%A4%A8%E0%A4%B2.png" group-title="Entertainment",Danagl 2
+http://xott.live:8080/live/zeeshanashraf/123654/356002.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Danagl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="Entertainment",Danagl
+https://fifabd.site/OPLLX5/play.php?id=355655&|User-Agent=RANAPK
+
+
+
+# --- Movies ---
+
+
+# --- Sony Max ---
+
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Movies",Sony Max HD (1)
+http://watchindia.net:8880/live/39920/69150/788.ts
+http://watchindia.net:8880/live/10155/34564/788.ts
+http://watchindia.net:8880/live/82963/72037/788.ts
+http://watchindia.net:8880/live/10155/34564/788.ts
+http://watchindia.net:8880/live/41701/62215/788.ts
+
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Movies",Sony Max HD (2)
+https://starshare.org:443/live/gurmeet/gurmeet/151.ts
+
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD (3)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Movies",Sony Max HD (3)
+https://fifabd.site/OPLLX5/play.php?id=221259&|User-Agent=RANAPK
+
+
+
+# --- Star gold ---
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Movies",Star Gold HD (1)
+http://watchindia.net:8880/live/39920/69150/785.ts
+http://watchindia.net:8880/live/10155/34564/785.ts
+http://watchindia.net:8880/live/82963/72037/785.ts
+http://watchindia.net:8880/live/10155/34564/785.ts
+http://watchindia.net:8880/live/41701/62215/785.ts
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Movies",Star Gold HD (2)
+http://xott.live:8080/live/zeeshanashraf/123654/66177.ts
+
+
+
+# --- Star Star Gold Select ---
+
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD (1)
+http://watchindia.net:8880/live/39920/69150/784.ts
+http://watchindia.net:8880/live/10155/34564/784.ts
+http://watchindia.net:8880/live/82963/72037/784.ts
+http://watchindia.net:8880/live/10155/34564/784.ts
+http://watchindia.net:8880/live/41701/62215/784.ts
+
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD (2)
+http://xott.live:8080/live/zeeshanashraf/123654/221257.ts
+
+
+
+# --- & Pictures ---
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="Movies",& Pictures HD
+http://watchindia.net:8880/live/79527/25638/783.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="Movies",& Pictures HD
+https://fifabd.site/OPLLX5/play.php?id=221260&|User-Agent=RANAPK
+
+
+# --- Colors Cineplex ---
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="Movies",Colors Cineplex HD
 http://watchindia.net:8880/live/79527/25638/803.ts
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max 2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="My Movies",Sony Max 2
-http://watchindia.net:8880/live/79527/25638/2024.ts
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="My Movies",Sony Max HD
-http://watchindia.net:8880/live/79527/25638/788.ts
-#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Wah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="My Movies",Sony Wah
-http://watchindia.net:8880/live/79527/25638/814.ts
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="My Movies",Star Gold HD
-http://watchindia.net:8880/live/79527/25638/785.ts
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="My Movies",Star Gold Select HD
-http://watchindia.net:8880/live/79527/25638/784.ts
-#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="My Movies",Zee Action
-http://watchindia.net:8880/live/79527/25638/821.ts
-#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="My Movies",Zee Bollywood
-http://watchindia.net:8880/live/79527/25638/822.ts
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="My Movies",Zee Cinema HD
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2025-06-16/2506161763000.jpg" group-title="Movies",Colors Cineplex Bollywood
+https://fifabd.site/OPLLX5/play.php?id=112983&|User-Agent=RANAPK
+
+
+# --- Zee Cinema ---
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD (1)
 http://watchindia.net:8880/live/79527/25638/787.ts
-#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="My Movies",Zee Classic
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD (2)
+https://fifabd.site/OPLLX5/play.php?id=221261&|User-Agent=RANAPK
+
+
+# --- Other Movies ---
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Movies",Zee Action
+http://watchindia.net:8880/live/79527/25638/821.ts
+#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="Movies",Zee Bollywood
+http://watchindia.net:8880/live/79527/25638/822.ts
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="Movies",Zee Classic
 http://watchindia.net:8880/live/79527/25638/802.ts
-#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://watchindia.net/images/channels/hindi/ABP_News.png" group-title="My News",ABP News
-http://watchindia.net:8880/live/79527/25638/833.ts
-#EXTINF:-1 tvg-id="aajtak.in" tvg-name="Aaj Tak" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak.png" group-title="My News",Aaj Tak
-http://watchindia.net:8880/live/79527/25638/836.ts
-#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="Aaj Tak HD" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak_HD.png" group-title="My News",Aaj Tak HD
-http://watchindia.net:8880/live/79527/25638/807.ts
-#EXTINF:-1 tvg-id="ndtv24x7.in" tvg-name="NDTV News" tvg-logo="https://watchindia.net/images/channels/hindi/NDTV_News.png" group-title="My News",NDTV News
-http://watchindia.net:8880/live/79527/25638/831.ts
-#EXTINF:-1 tvg-id="ndtvprofit-prime.in" tvg-name="NDTV Profit" tvg-logo="https://watchindia.net/images/channels/hindi/NDTV_Profit.png" group-title="My News",NDTV Profit
-http://watchindia.net:8880/live/79527/25638/837.ts
-#EXTINF:-1 tvg-id="republictv.in" tvg-name="Republic TV News" tvg-logo="https://watchindia.net/images/channels/hindi/Republic_TV_News.png" group-title="My News",Republic TV News
-http://watchindia.net:8880/live/79527/25638/815.ts
-#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_News.png" group-title="My News",Zee News
-http://watchindia.net:8880/live/79527/25638/832.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="My Sports",Sony Ten 1 HD (1)
-http://watchindia.net:8880/live/79527/25638/1756.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="My Sports",Sony Ten 1 HD (2)
-http://watchindia.net:8880/live/79527/25638/2215.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="My Sports",Sony Ten 2 HD
-http://watchindia.net:8880/live/79527/25638/1757.ts
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="My Sports",Sony Ten 3 HD
-http://watchindia.net:8880/live/79527/25638/1758.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_4_HD.png" group-title="My Sports",Sony Ten 4 HD
-http://watchindia.net:8880/live/79527/25638/2662.ts
-#EXTINF:-1 tvg-id="sony.sports.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="My Sports",Sony Ten 5 HD
-http://watchindia.net:8880/live/79527/25638/2663.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="My Sports",Star Sports 1 HD (1)
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max 2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="Movies",Sony Max 2
+http://watchindia.net:8880/live/79527/25638/2024.ts
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Wah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="Movies",Sony Wah
+http://watchindia.net:8880/live/79527/25638/814.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema
+http://watchindia.net:8880/live/79527/25638/820.ts
+
+
+
+# --- Kids ---
+
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="Nick HD Plus" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_HD_Plus.png" group-title="Kids Cartoon",Nick HD Plus
+http://watchindia.net:8880/live/79527/25638/2237.ts
+
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_Hindi.png" group-title="Kids Cartoon",Nick Hindi
+http://watchindia.net:8880/live/79527/25638/2182.ts
+
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network" tvg-logo="http://watchindia.net/images/channels/hindi/CN_HD+.png" group-title="Kids Cartoon",Cartoon Network
+https://fifabd.site/OPLLX5/play.php?id=153154&|User-Agent=RANAPK
+
+#EXTINF:-1 tvg-id="HungamaTV.india" tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Kids Cartoon",Hungama
+https://fifabd.site/OPLLX5/play.php?id=150480&|User-Agent=RANAPK
+
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="Kids Cartoon",Disney Channel
+http://watchindia.net:8880/live/79527/25638/2046.ts
+
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Jr." tvg-logo="http://watchindia.net/images/channels/usa/Nick_Jr.png" group-title="Kids Cartoon",Nick Jr.
+http://watchindia.net:8880/live/79527/25638/2059.ts
+
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="http://watchindia.net/images/channels/usa/Nickelodeon.png" group-title="Kids Cartoon",Nickelodeon
+http://watchindia.net:8880/live/79527/25638/2049.ts
+
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://watchindia.net/images/channels/usa/Nicktoons.png" group-title="Kids Cartoon",Nicktoons
+http://watchindia.net:8880/live/79527/25638/2064.ts
+
+#EXTINF:-1 tvg-id="pogo.in" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Kids Cartoon",Pogo
+https://fifabd.site/OPLLX5/play.php?id=150483&|User-Agent=RANAPK
+
+
+
+
+
+
+
+# --- Knowledge ---
+
+#EXTINF:-1 tvg-id="discovery.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="Knowledge",Discovery Channel Hindi
+https://fifabd.site/OPLLX5/play.php?id=206287&|User-Agent=RANAPK
+
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Knowledge",History TV18 HD
+https://starshare.org:443/live/gurmeet/gurmeet/180.ts
+
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="Knowledge",Animal Planet
+http://watchindia.net:8880/live/79527/25638/2039.ts
+
+#EXTINF:-1 tvg-id="natgeo.in" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="Knowledge",National Geographic
+https://fifabd.site/OPLLX5/play.php?id=206285&|User-Agent=RANAPK
+
+
+
+
+
+
+
+# --- Sports ---
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (1)
 http://watchindia.net:8880/live/79527/25638/2232.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="My Sports",Star Sports 1 HD (2)
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (2)
 http://watchindia.net:8880/live/79527/25638/2456.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (3)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="My Sports",Star Sports 1 HD (3)
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (3)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (3)
 http://watchindia.net:8880/live/79527/25638/2678.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 HD (Hindi)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD_Hindi.png" group-title="My Sports",Star Sports 1 HD (Hindi)
+
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 HD (Hindi)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD_Hindi.png" group-title="Sports",Star Sports 1 HD (Hindi)
 http://watchindia.net:8880/live/79527/25638/2673.ts
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="My Sports",Star Sports 2 HD (1)
+
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD (1)
 http://watchindia.net:8880/live/79527/25638/1069.ts
-#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="My Sports",Star Sports 2 HD (2)
+
+#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD (2)
 http://watchindia.net:8880/live/79527/25638/2163.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="My Sports",Star Sports Select 1 HD
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD
 http://watchindia.net:8880/live/79527/25638/1070.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="My Sports",Star Sports Select 2 HD
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Sports",Star Sports Select 2 HD
 http://watchindia.net:8880/live/79527/25638/1071.ts
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD (1)
+http://watchindia.net:8880/live/79527/25638/1756.ts
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD (2)
+http://watchindia.net:8880/live/79527/25638/2215.ts
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD
+http://watchindia.net:8880/live/79527/25638/1757.ts
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="Sports",Sony Ten 3 HD
+http://xplatinmedia.com:8080/live/Bmatt4133/ouux3dBoi63z9yQyfbdUi5qcn/53383.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_4_HD.png" group-title="Sports",Sony Ten 4 HD
+http://watchindia.net:8880/live/79527/25638/2662.ts
+
+#EXTINF:-1 tvg-id="sony.sports.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="Sports",Sony Ten 5 HD
+http://watchindia.net:8880/live/79527/25638/2663.ts
+
+
+
+# --- 24x7 Entertainment ---
+#EXTINF:-1 tvg-id="" tvg-name="CID 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24x7 Entertainment",CID | 24X7 CH01
+https://fifabd.site/OPLLX5/play.php?id=340808&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="CID 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24x7 Entertainment",CID | 24X7 CH02
+https://fifabd.site/OPLLX5/play.php?id=340873&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" group-title="24x7 Entertainment",CID | 24X7 CH03
+https://fifabd.site/OPLLX5/play.php?id=378909&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL SHATRAK 24X7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="24x7 Entertainment",CRIME PATROL SHATRAK 24X7
+https://fifabd.site/OPLLX5/play.php?id=340874&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL DIAL100 24X7"  tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="24x7 Entertainment",CRIME PATROL DIAL100 24X7
+https://fifabd.site/OPLLX5/play.php?id=340875&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL 2.0 24X7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="24x7 Entertainment",CRIME PATROL 2.0 24X7
+https://fifabd.site/OPLLX5/play.php?id=340876&|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="THE KAPIL SHARMA SHOW 24X7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="24x7 Entertainment" ,THE KAPIL SHARMA SHOW 24X7
+https://fifabd.site/OPLLX5/play.php?id=342075&|User-Agent=RANAPK
