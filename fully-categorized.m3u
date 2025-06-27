@@ -7,9 +7,3 @@
 #EXTHTTP:{"cookie":"__hdnea__=st=1750986225~exp=1751072625~acl=/*~hmac=bfa3e8fe634e8b2adb2590dd50ff89be38f30cf5a40a57ab7359146c96cbf9d0"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1750986225~exp=1751072625~acl=/*~hmac=bfa3e8fe634e8b2adb2590dd50ff89be38f30cf5a40a57ab7359146c96cbf9d0&xxx=%7Ccookie=__hdnea__=st=1750986225~exp=1751072625~acl=/*~hmac=bfa3e8fe634e8b2adb2590dd50ff89be38f30cf5a40a57ab7359146c96cbf9d0
 
-
-#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Jiostar",Star Plus HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-#EXTVLCOPT:http-cookie=
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd?key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
